@@ -1,0 +1,237 @@
+nohup: ignoring input
+
+
+starting seed  2800 
+
+
+<class 'torch.nn.modules.activation.ReLU'>
+running on  cuda
+/usr/local/lib/python3.10/dist-packages/torch/nn/modules/module.py:1359: UserWarning: Using a non-full backward hook when the forward contains multiple autograd Nodes is deprecated and will be removed in future versions. This hook will be missing some grad_input. Please use register_full_backward_hook to get the documented behavior.
+  warnings.warn("Using a non-full backward hook when the forward contains multiple autograd Nodes "
+Eval num_timesteps=5000, episode_reward=-31.88 +/- 86.12
+Episode length: 174.28 +/- 115.71
+New best mean reward!
+Eval num_timesteps=10000, episode_reward=-256.81 +/- 55.38
+Episode length: 747.48 +/- 139.72
+Eval num_timesteps=15000, episode_reward=-178.51 +/- 31.84
+Episode length: 475.12 +/- 148.90
+Eval num_timesteps=20000, episode_reward=94.83 +/- 106.48
+Episode length: 609.71 +/- 173.73
+New best mean reward!
+Eval num_timesteps=25000, episode_reward=73.92 +/- 106.27
+Episode length: 547.45 +/- 167.64
+Eval num_timesteps=30000, episode_reward=64.86 +/- 127.91
+Episode length: 262.26 +/- 107.15
+Eval num_timesteps=35000, episode_reward=-67.25 +/- 70.89
+Episode length: 861.39 +/- 200.62
+Eval num_timesteps=40000, episode_reward=144.78 +/- 120.86
+Episode length: 385.36 +/- 168.27
+New best mean reward!
+Eval num_timesteps=45000, episode_reward=-13.10 +/- 141.05
+Episode length: 506.89 +/- 180.62
+Eval num_timesteps=50000, episode_reward=12.59 +/- 146.58
+Episode length: 369.72 +/- 152.59
+Eval num_timesteps=55000, episode_reward=-50.19 +/- 96.38
+Episode length: 575.16 +/- 304.01
+Eval num_timesteps=60000, episode_reward=-1.86 +/- 111.24
+Episode length: 425.86 +/- 224.78
+Eval num_timesteps=65000, episode_reward=-74.05 +/- 29.70
+Episode length: 770.73 +/- 347.67
+Eval num_timesteps=70000, episode_reward=-50.07 +/- 71.61
+Episode length: 686.93 +/- 328.86
+Eval num_timesteps=75000, episode_reward=-17.44 +/- 115.16
+Episode length: 420.53 +/- 262.83
+Eval num_timesteps=80000, episode_reward=-103.38 +/- 53.57
+Episode length: 465.98 +/- 324.01
+Eval num_timesteps=85000, episode_reward=-49.50 +/- 69.17
+Episode length: 615.87 +/- 363.07
+Eval num_timesteps=90000, episode_reward=-47.92 +/- 98.66
+Episode length: 448.75 +/- 294.29
+Eval num_timesteps=95000, episode_reward=-81.95 +/- 53.63
+Episode length: 660.71 +/- 369.08
+Eval num_timesteps=100000, episode_reward=-24.64 +/- 111.24
+Episode length: 366.82 +/- 197.98
+Eval num_timesteps=105000, episode_reward=19.12 +/- 117.40
+Episode length: 308.39 +/- 224.94
+Eval num_timesteps=110000, episode_reward=32.86 +/- 125.62
+Episode length: 259.57 +/- 126.62
+Eval num_timesteps=115000, episode_reward=18.77 +/- 127.19
+Episode length: 361.44 +/- 193.52
+Eval num_timesteps=120000, episode_reward=-77.79 +/- 65.49
+Episode length: 544.97 +/- 358.79
+Eval num_timesteps=125000, episode_reward=-38.64 +/- 103.00
+Episode length: 555.13 +/- 314.07
+Eval num_timesteps=130000, episode_reward=14.42 +/- 113.40
+Episode length: 404.71 +/- 221.46
+Eval num_timesteps=135000, episode_reward=48.99 +/- 128.04
+Episode length: 351.40 +/- 179.70
+Eval num_timesteps=140000, episode_reward=65.92 +/- 125.50
+Episode length: 357.41 +/- 218.65
+Eval num_timesteps=145000, episode_reward=17.28 +/- 117.49
+Episode length: 442.70 +/- 261.45
+Eval num_timesteps=150000, episode_reward=19.12 +/- 125.50
+Episode length: 485.37 +/- 234.65
+Eval num_timesteps=155000, episode_reward=33.33 +/- 126.16
+Episode length: 401.02 +/- 202.78
+Eval num_timesteps=160000, episode_reward=8.61 +/- 114.28
+Episode length: 360.31 +/- 178.40
+Eval num_timesteps=165000, episode_reward=-7.55 +/- 111.07
+Episode length: 379.70 +/- 203.45
+Eval num_timesteps=170000, episode_reward=11.43 +/- 117.74
+Episode length: 389.12 +/- 204.10
+Eval num_timesteps=175000, episode_reward=7.90 +/- 116.88
+Episode length: 420.36 +/- 225.90
+Eval num_timesteps=180000, episode_reward=-4.32 +/- 112.07
+Episode length: 454.39 +/- 275.15
+Eval num_timesteps=185000, episode_reward=6.15 +/- 113.94
+Episode length: 435.53 +/- 250.39
+Eval num_timesteps=190000, episode_reward=22.06 +/- 122.44
+Episode length: 388.75 +/- 198.59
+Eval num_timesteps=195000, episode_reward=15.20 +/- 117.87
+Episode length: 415.18 +/- 223.66
+Eval num_timesteps=200000, episode_reward=-2.38 +/- 108.63
+Episode length: 368.02 +/- 212.59
+FINISHED IN 981.8130918510142 s
+
+
+starting seed  2801 
+
+
+<class 'torch.nn.modules.activation.ReLU'>
+running on  cuda
+/usr/local/lib/python3.10/dist-packages/torch/nn/modules/module.py:1359: UserWarning: Using a non-full backward hook when the forward contains multiple autograd Nodes is deprecated and will be removed in future versions. This hook will be missing some grad_input. Please use register_full_backward_hook to get the documented behavior.
+  warnings.warn("Using a non-full backward hook when the forward contains multiple autograd Nodes "
+Eval num_timesteps=5000, episode_reward=-581.91 +/- 173.89
+Episode length: 68.70 +/- 12.89
+New best mean reward!
+Eval num_timesteps=10000, episode_reward=-28.71 +/- 57.37
+Episode length: 977.21 +/- 90.72
+New best mean reward!
+Eval num_timesteps=15000, episode_reward=41.07 +/- 128.06
+Episode length: 779.61 +/- 190.70
+New best mean reward!
+Eval num_timesteps=20000, episode_reward=-89.89 +/- 47.37
+Episode length: 947.02 +/- 157.65
+Eval num_timesteps=25000, episode_reward=100.46 +/- 134.83
+Episode length: 291.19 +/- 66.47
+New best mean reward!
+Eval num_timesteps=30000, episode_reward=-95.27 +/- 113.22
+Episode length: 536.82 +/- 209.06
+Eval num_timesteps=35000, episode_reward=-110.60 +/- 56.30
+Episode length: 804.34 +/- 274.01
+Eval num_timesteps=40000, episode_reward=70.98 +/- 123.37
+Episode length: 436.22 +/- 162.27
+Eval num_timesteps=45000, episode_reward=-55.76 +/- 132.54
+Episode length: 457.48 +/- 194.43
+Eval num_timesteps=50000, episode_reward=-65.62 +/- 99.57
+Episode length: 354.63 +/- 180.70
+Eval num_timesteps=55000, episode_reward=-129.55 +/- 46.39
+Episode length: 558.52 +/- 324.28
+Eval num_timesteps=60000, episode_reward=-109.25 +/- 31.52
+Episode length: 914.61 +/- 210.75
+Eval num_timesteps=65000, episode_reward=16.81 +/- 84.37
+Episode length: 954.26 +/- 104.81
+Eval num_timesteps=70000, episode_reward=-107.01 +/- 35.82
+Episode length: 763.60 +/- 329.22
+Eval num_timesteps=75000, episode_reward=-94.72 +/- 34.24
+Episode length: 758.90 +/- 326.68
+Eval num_timesteps=80000, episode_reward=-107.94 +/- 32.77
+Episode length: 740.41 +/- 345.84
+Eval num_timesteps=85000, episode_reward=-120.24 +/- 44.29
+Episode length: 498.37 +/- 329.88
+Eval num_timesteps=90000, episode_reward=-70.96 +/- 77.11
+Episode length: 546.28 +/- 347.19
+Eval num_timesteps=95000, episode_reward=-124.54 +/- 40.91
+Episode length: 423.90 +/- 293.99
+Eval num_timesteps=100000, episode_reward=-91.43 +/- 71.67
+Episode length: 357.34 +/- 254.21
+Eval num_timesteps=105000, episode_reward=-116.20 +/- 46.91
+Episode length: 382.69 +/- 293.99
+Eval num_timesteps=110000, episode_reward=-148.50 +/- 44.62
+Episode length: 392.43 +/- 298.89
+Eval num_timesteps=115000, episode_reward=-129.47 +/- 38.76
+Episode length: 428.53 +/- 311.35
+Eval num_timesteps=120000, episode_reward=-140.22 +/- 45.52
+Episode length: 444.36 +/- 331.85
+Eval num_timesteps=125000, episode_reward=-152.54 +/- 35.97
+Episode length: 355.37 +/- 280.17
+Eval num_timesteps=130000, episode_reward=-137.57 +/- 37.78
+Episode length: 467.99 +/- 339.31
+Eval num_timesteps=135000, episode_reward=-134.11 +/- 48.51
+Episode length: 453.92 +/- 335.71
+Eval num_timesteps=140000, episode_reward=-128.65 +/- 30.83
+Episode length: 435.73 +/- 343.24
+Eval num_timesteps=145000, episode_reward=-150.29 +/- 39.70
+Episode length: 474.70 +/- 337.95
+Eval num_timesteps=150000, episode_reward=-131.09 +/- 28.80
+Episode length: 500.03 +/- 361.05
+Eval num_timesteps=155000, episode_reward=-133.79 +/- 33.92
+Episode length: 551.83 +/- 368.07
+Eval num_timesteps=160000, episode_reward=-123.66 +/- 31.83
+Episode length: 497.97 +/- 355.02
+Eval num_timesteps=165000, episode_reward=-121.90 +/- 38.89
+Episode length: 415.81 +/- 307.85
+Eval num_timesteps=170000, episode_reward=-133.40 +/- 40.68
+Episode length: 424.74 +/- 323.85
+Eval num_timesteps=175000, episode_reward=-126.93 +/- 41.26
+Episode length: 529.96 +/- 356.35
+Eval num_timesteps=180000, episode_reward=-148.24 +/- 42.90
+Episode length: 455.43 +/- 319.24
+Eval num_timesteps=185000, episode_reward=-128.38 +/- 44.13
+Episode length: 492.41 +/- 356.27
+Eval num_timesteps=190000, episode_reward=-120.39 +/- 35.35
+Episode length: 493.28 +/- 365.02
+Eval num_timesteps=195000, episode_reward=-128.93 +/- 39.26
+Episode length: 494.84 +/- 357.83
+Eval num_timesteps=200000, episode_reward=-113.69 +/- 27.22
+Episode length: 490.85 +/- 377.19
+FINISHED IN 1431.1348447269993 s
+
+
+starting seed  2802 
+
+
+<class 'torch.nn.modules.activation.ReLU'>
+running on  cuda
+Eval num_timesteps=5000, episode_reward=-500.10 +/- 53.24
+Episode length: 501.14 +/- 122.55
+New best mean reward!
+Eval num_timesteps=10000, episode_reward=-114.09 +/- 31.64
+Episode length: 997.17 +/- 21.70
+New best mean reward!
+Traceback (most recent call last):
+  File "/home/haani/snap/snapd-desktop-integration/83/Documents/thesis/sb.py", line 167, in <module>
+    main(args)
+  File "/home/haani/snap/snapd-desktop-integration/83/Documents/thesis/sb.py", line 158, in main
+    drl(args, i)
+  File "/home/haani/snap/snapd-desktop-integration/83/Documents/thesis/sb.py", line 138, in drl
+    model.learn(total_timesteps=args.steps, eval_freq=1, n_eval_episodes=1, log_interval=1, callback=eval_callback)
+  File "/home/haani/snap/snapd-desktop-integration/83/Documents/thesis/stable_baselines3_thesis/a2c/a2c.py", line 217, in learn
+    return super().learn(
+  File "/home/haani/snap/snapd-desktop-integration/83/Documents/thesis/stable_baselines3_thesis/common/on_policy_algorithm.py", line 251, in learn
+    continue_training = self.collect_rollouts(self.env, callback, self.rollout_buffer, n_rollout_steps=self.n_steps)
+  File "/home/haani/snap/snapd-desktop-integration/83/Documents/thesis/stable_baselines3_thesis/common/on_policy_algorithm.py", line 185, in collect_rollouts
+    if callback.on_step() is False:
+  File "/home/haani/snap/snapd-desktop-integration/83/Documents/thesis/stable_baselines3_thesis/common/callbacks.py", line 88, in on_step
+    return self._on_step()
+  File "/home/haani/snap/snapd-desktop-integration/83/Documents/thesis/stable_baselines3_thesis/common/callbacks.py", line 435, in _on_step
+    episode_rewards, episode_lengths = evaluate_policy(
+  File "/home/haani/snap/snapd-desktop-integration/83/Documents/thesis/stable_baselines3_thesis/common/evaluation.py", line 86, in evaluate_policy
+    actions, states = model.predict(observations, state=states, episode_start=episode_starts, deterministic=deterministic)
+  File "/home/haani/snap/snapd-desktop-integration/83/Documents/thesis/stable_baselines3_thesis/common/base_class.py", line 589, in predict
+    return self.policy.predict(observation, state, episode_start, deterministic)
+  File "/home/haani/snap/snapd-desktop-integration/83/Documents/thesis/stable_baselines3_thesis/common/policies.py", line 341, in predict
+    actions = self._predict(observation, deterministic=deterministic)
+  File "/home/haani/snap/snapd-desktop-integration/83/Documents/thesis/stable_baselines3_thesis/common/policies.py", line 647, in _predict
+    return self.get_distribution(observation).get_actions(deterministic=deterministic)
+  File "/home/haani/snap/snapd-desktop-integration/83/Documents/thesis/stable_baselines3_thesis/common/policies.py", line 684, in get_distribution
+    latent_pi = self.mlp_extractor.forward_actor(features)
+  File "/home/haani/snap/snapd-desktop-integration/83/Documents/thesis/stable_baselines3_thesis/common/torch_layers.py", line 259, in forward_actor
+    return self.policy_net(self.shared_net(features))
+  File "/usr/local/lib/python3.10/dist-packages/torch/nn/modules/module.py", line 1518, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/usr/local/lib/python3.10/dist-packages/torch/nn/modules/module.py", line 1527, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/usr/local/lib/python3.10/dist-packages/torch/nn/modules/container.py", line 215, in forward
+    input = module(input)
+  File "/usr/local/lib/python3.10/dist-packages/torch/n

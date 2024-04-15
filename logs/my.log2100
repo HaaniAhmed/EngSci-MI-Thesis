@@ -1,0 +1,1540 @@
+nohup: ignoring input
+
+
+starting seed  2100 
+
+
+<class 'torch.nn.modules.activation.ReLU'>
+running on  cuda
+/usr/local/lib/python3.10/dist-packages/torch/nn/modules/module.py:1359: UserWarning: Using a non-full backward hook when the forward contains multiple autograd Nodes is deprecated and will be removed in future versions. This hook will be missing some grad_input. Please use register_full_backward_hook to get the documented behavior.
+  warnings.warn("Using a non-full backward hook when the forward contains multiple autograd Nodes "
+Eval num_timesteps=5000, episode_reward=-915.02 +/- 737.29
+Episode length: 132.70 +/- 65.35
+New best mean reward!
+Eval num_timesteps=10000, episode_reward=-791.74 +/- 57.08
+Episode length: 426.76 +/- 85.18
+New best mean reward!
+Eval num_timesteps=15000, episode_reward=-82.72 +/- 85.45
+Episode length: 896.38 +/- 164.21
+New best mean reward!
+Eval num_timesteps=20000, episode_reward=-150.83 +/- 44.90
+Episode length: 794.22 +/- 221.88
+Eval num_timesteps=25000, episode_reward=-154.99 +/- 93.70
+Episode length: 831.27 +/- 197.53
+Eval num_timesteps=30000, episode_reward=-179.46 +/- 67.87
+Episode length: 744.89 +/- 222.12
+Eval num_timesteps=35000, episode_reward=-140.01 +/- 39.59
+Episode length: 890.14 +/- 186.64
+Eval num_timesteps=40000, episode_reward=-95.72 +/- 20.10
+Episode length: 987.78 +/- 65.67
+Eval num_timesteps=45000, episode_reward=-95.08 +/- 46.64
+Episode length: 952.54 +/- 115.43
+Eval num_timesteps=50000, episode_reward=-127.31 +/- 35.86
+Episode length: 980.58 +/- 88.25
+Eval num_timesteps=55000, episode_reward=-116.35 +/- 36.63
+Episode length: 912.50 +/- 152.76
+Eval num_timesteps=60000, episode_reward=-65.88 +/- 46.32
+Episode length: 944.30 +/- 150.70
+New best mean reward!
+Eval num_timesteps=65000, episode_reward=-79.38 +/- 92.58
+Episode length: 677.95 +/- 241.21
+Eval num_timesteps=70000, episode_reward=25.98 +/- 118.92
+Episode length: 544.80 +/- 171.67
+New best mean reward!
+Eval num_timesteps=75000, episode_reward=-3.53 +/- 117.94
+Episode length: 659.38 +/- 225.72
+Eval num_timesteps=80000, episode_reward=-69.48 +/- 69.42
+Episode length: 710.53 +/- 313.80
+Eval num_timesteps=85000, episode_reward=-62.99 +/- 66.18
+Episode length: 726.36 +/- 322.61
+Eval num_timesteps=90000, episode_reward=-111.37 +/- 32.56
+Episode length: 791.18 +/- 319.66
+Eval num_timesteps=95000, episode_reward=-113.71 +/- 41.69
+Episode length: 809.40 +/- 269.02
+Eval num_timesteps=100000, episode_reward=-58.62 +/- 29.76
+Episode length: 967.09 +/- 149.41
+Eval num_timesteps=105000, episode_reward=-1.79 +/- 94.99
+Episode length: 748.33 +/- 257.89
+Eval num_timesteps=110000, episode_reward=-56.58 +/- 60.78
+Episode length: 881.97 +/- 243.20
+Eval num_timesteps=115000, episode_reward=-138.31 +/- 46.04
+Episode length: 510.34 +/- 299.11
+Eval num_timesteps=120000, episode_reward=-56.26 +/- 36.84
+Episode length: 865.82 +/- 281.69
+Eval num_timesteps=125000, episode_reward=-113.31 +/- 51.60
+Episode length: 593.95 +/- 334.43
+Eval num_timesteps=130000, episode_reward=-94.87 +/- 44.99
+Episode length: 712.20 +/- 364.45
+Eval num_timesteps=135000, episode_reward=-108.68 +/- 47.57
+Episode length: 639.82 +/- 387.90
+Eval num_timesteps=140000, episode_reward=-75.22 +/- 71.52
+Episode length: 648.11 +/- 357.58
+Eval num_timesteps=145000, episode_reward=-78.68 +/- 48.84
+Episode length: 627.63 +/- 375.57
+Eval num_timesteps=150000, episode_reward=-76.99 +/- 61.07
+Episode length: 693.66 +/- 361.22
+Eval num_timesteps=155000, episode_reward=-65.06 +/- 47.47
+Episode length: 813.17 +/- 331.17
+Eval num_timesteps=160000, episode_reward=-58.49 +/- 61.27
+Episode length: 775.18 +/- 322.19
+Eval num_timesteps=165000, episode_reward=-70.78 +/- 53.18
+Episode length: 774.17 +/- 334.41
+Eval num_timesteps=170000, episode_reward=-80.26 +/- 51.91
+Episode length: 725.06 +/- 360.55
+Eval num_timesteps=175000, episode_reward=-84.17 +/- 62.61
+Episode length: 707.93 +/- 348.89
+Eval num_timesteps=180000, episode_reward=-76.41 +/- 46.08
+Episode length: 802.83 +/- 329.89
+Eval num_timesteps=185000, episode_reward=-80.55 +/- 39.27
+Episode length: 726.72 +/- 372.58
+Eval num_timesteps=190000, episode_reward=-85.29 +/- 47.56
+Episode length: 716.10 +/- 360.11
+Eval num_timesteps=195000, episode_reward=-78.65 +/- 57.89
+Episode length: 737.96 +/- 352.97
+Eval num_timesteps=200000, episode_reward=-75.86 +/- 45.95
+Episode length: 712.89 +/- 373.75
+FINISHED IN 3203.1331045050174 s
+
+
+starting seed  2101 
+
+
+<class 'torch.nn.modules.activation.ReLU'>
+running on  cuda
+/usr/local/lib/python3.10/dist-packages/torch/nn/modules/module.py:1359: UserWarning: Using a non-full backward hook when the forward contains multiple autograd Nodes is deprecated and will be removed in future versions. This hook will be missing some grad_input. Please use register_full_backward_hook to get the documented behavior.
+  warnings.warn("Using a non-full backward hook when the forward contains multiple autograd Nodes "
+Eval num_timesteps=5000, episode_reward=-380.57 +/- 254.23
+Episode length: 463.87 +/- 387.63
+New best mean reward!
+Eval num_timesteps=10000, episode_reward=-272.18 +/- 50.97
+Episode length: 311.40 +/- 73.33
+New best mean reward!
+Eval num_timesteps=15000, episode_reward=-36.38 +/- 21.37
+Episode length: 1000.00 +/- 0.00
+New best mean reward!
+Eval num_timesteps=20000, episode_reward=32.45 +/- 65.58
+Episode length: 986.80 +/- 36.21
+New best mean reward!
+Eval num_timesteps=25000, episode_reward=195.21 +/- 54.99
+Episode length: 584.82 +/- 80.31
+New best mean reward!
+FINISHED IN 376.04919369801064 s
+
+
+starting seed  2102 
+
+
+<class 'torch.nn.modules.activation.ReLU'>
+running on  cuda
+Eval num_timesteps=5000, episode_reward=-508.18 +/- 151.21
+Episode length: 164.55 +/- 72.86
+New best mean reward!
+Eval num_timesteps=10000, episode_reward=-238.20 +/- 87.79
+Episode length: 998.44 +/- 15.52
+New best mean reward!
+Eval num_timesteps=15000, episode_reward=-229.51 +/- 50.48
+Episode length: 651.57 +/- 180.53
+New best mean reward!
+Eval num_timesteps=20000, episode_reward=-140.99 +/- 74.83
+Episode length: 739.79 +/- 147.28
+New best mean reward!
+Eval num_timesteps=25000, episode_reward=-103.02 +/- 27.51
+Episode length: 1000.00 +/- 0.00
+New best mean reward!
+Eval num_timesteps=30000, episode_reward=-69.99 +/- 22.21
+Episode length: 1000.00 +/- 0.00
+New best mean reward!
+Eval num_timesteps=35000, episode_reward=134.22 +/- 102.37
+Episode length: 654.79 +/- 93.83
+New best mean reward!
+Eval num_timesteps=40000, episode_reward=-4.70 +/- 117.49
+Episode length: 892.67 +/- 141.94
+Eval num_timesteps=45000, episode_reward=-4.61 +/- 117.42
+Episode length: 784.18 +/- 159.13
+Eval num_timesteps=50000, episode_reward=118.89 +/- 128.74
+Episode length: 465.49 +/- 77.33
+Eval num_timesteps=55000, episode_reward=-133.68 +/- 37.23
+Episode length: 430.26 +/- 229.37
+Eval num_timesteps=60000, episode_reward=103.22 +/- 139.51
+Episode length: 352.30 +/- 99.12
+Eval num_timesteps=65000, episode_reward=18.12 +/- 124.17
+Episode length: 505.92 +/- 230.14
+Eval num_timesteps=70000, episode_reward=46.00 +/- 124.64
+Episode length: 769.28 +/- 197.25
+Eval num_timesteps=75000, episode_reward=69.09 +/- 134.48
+Episode length: 355.78 +/- 145.86
+Eval num_timesteps=80000, episode_reward=42.92 +/- 128.83
+Episode length: 386.18 +/- 189.61
+Eval num_timesteps=85000, episode_reward=18.00 +/- 129.48
+Episode length: 382.64 +/- 231.27
+Eval num_timesteps=90000, episode_reward=25.52 +/- 128.07
+Episode length: 540.88 +/- 257.85
+Eval num_timesteps=95000, episode_reward=68.82 +/- 133.59
+Episode length: 351.90 +/- 158.63
+Eval num_timesteps=100000, episode_reward=72.62 +/- 122.55
+Episode length: 226.58 +/- 76.15
+Eval num_timesteps=105000, episode_reward=70.98 +/- 116.48
+Episode length: 214.82 +/- 69.69
+Eval num_timesteps=110000, episode_reward=61.39 +/- 129.91
+Episode length: 223.71 +/- 54.08
+Eval num_timesteps=115000, episode_reward=33.56 +/- 105.03
+Episode length: 175.69 +/- 44.21
+Eval num_timesteps=120000, episode_reward=36.41 +/- 91.88
+Episode length: 167.85 +/- 43.67
+Eval num_timesteps=125000, episode_reward=82.04 +/- 124.72
+Episode length: 236.77 +/- 124.85
+Eval num_timesteps=130000, episode_reward=89.72 +/- 136.99
+Episode length: 275.62 +/- 139.66
+Eval num_timesteps=135000, episode_reward=101.10 +/- 143.98
+Episode length: 260.15 +/- 131.54
+Eval num_timesteps=140000, episode_reward=161.31 +/- 116.98
+Episode length: 323.70 +/- 114.04
+New best mean reward!
+Eval num_timesteps=145000, episode_reward=157.77 +/- 108.59
+Episode length: 378.04 +/- 172.73
+Eval num_timesteps=150000, episode_reward=119.85 +/- 119.52
+Episode length: 427.29 +/- 161.56
+Eval num_timesteps=155000, episode_reward=79.98 +/- 136.13
+Episode length: 589.51 +/- 246.57
+Eval num_timesteps=160000, episode_reward=121.72 +/- 118.31
+Episode length: 682.28 +/- 187.07
+Eval num_timesteps=165000, episode_reward=145.89 +/- 79.65
+Episode length: 681.67 +/- 152.19
+Eval num_timesteps=170000, episode_reward=87.66 +/- 129.24
+Episode length: 672.89 +/- 207.47
+Eval num_timesteps=175000, episode_reward=95.85 +/- 87.49
+Episode length: 830.96 +/- 150.28
+Eval num_timesteps=180000, episode_reward=128.96 +/- 84.56
+Episode length: 763.13 +/- 146.95
+Eval num_timesteps=185000, episode_reward=138.80 +/- 83.84
+Episode length: 700.10 +/- 155.79
+Eval num_timesteps=190000, episode_reward=125.49 +/- 91.18
+Episode length: 716.73 +/- 164.41
+Eval num_timesteps=195000, episode_reward=131.75 +/- 87.20
+Episode length: 681.51 +/- 150.28
+Eval num_timesteps=200000, episode_reward=86.62 +/- 117.02
+Episode length: 649.78 +/- 154.02
+FINISHED IN 2195.992800553009 s
+
+
+starting seed  2103 
+
+
+<class 'torch.nn.modules.activation.ReLU'>
+running on  cuda
+Eval num_timesteps=5000, episode_reward=-108.62 +/- 29.72
+Episode length: 987.30 +/- 88.99
+New best mean reward!
+Eval num_timesteps=10000, episode_reward=-132.69 +/- 20.15
+Episode length: 365.81 +/- 89.87
+Eval num_timesteps=15000, episode_reward=-34.72 +/- 31.48
+Episode length: 994.17 +/- 29.15
+New best mean reward!
+Eval num_timesteps=20000, episode_reward=-119.22 +/- 71.94
+Episode length: 202.94 +/- 60.53
+Eval num_timesteps=25000, episode_reward=-201.11 +/- 55.71
+Episode length: 582.11 +/- 281.94
+Eval num_timesteps=30000, episode_reward=-29.03 +/- 108.25
+Episode length: 513.40 +/- 297.17
+New best mean reward!
+Eval num_timesteps=35000, episode_reward=-55.13 +/- 51.69
+Episode length: 958.35 +/- 150.00
+Eval num_timesteps=40000, episode_reward=-81.60 +/- 57.07
+Episode length: 807.77 +/- 265.14
+Eval num_timesteps=45000, episode_reward=-75.78 +/- 73.03
+Episode length: 625.04 +/- 337.75
+Eval num_timesteps=50000, episode_reward=-166.64 +/- 69.66
+Episode length: 579.46 +/- 276.80
+Eval num_timesteps=55000, episode_reward=-127.75 +/- 43.16
+Episode length: 425.31 +/- 229.64
+Eval num_timesteps=60000, episode_reward=-76.51 +/- 79.23
+Episode length: 786.25 +/- 304.71
+Eval num_timesteps=65000, episode_reward=-123.02 +/- 88.40
+Episode length: 788.06 +/- 328.45
+Eval num_timesteps=70000, episode_reward=-88.54 +/- 62.66
+Episode length: 726.86 +/- 363.40
+Eval num_timesteps=75000, episode_reward=-142.19 +/- 83.81
+Episode length: 572.28 +/- 333.07
+Eval num_timesteps=80000, episode_reward=-56.64 +/- 64.55
+Episode length: 699.51 +/- 360.70
+Eval num_timesteps=85000, episode_reward=-69.59 +/- 60.56
+Episode length: 709.36 +/- 341.20
+Eval num_timesteps=90000, episode_reward=-39.56 +/- 106.55
+Episode length: 624.19 +/- 335.31
+Eval num_timesteps=95000, episode_reward=-88.98 +/- 65.91
+Episode length: 636.23 +/- 337.93
+Eval num_timesteps=100000, episode_reward=-74.82 +/- 72.47
+Episode length: 556.57 +/- 321.11
+Eval num_timesteps=105000, episode_reward=-66.53 +/- 47.98
+Episode length: 699.02 +/- 362.09
+Eval num_timesteps=110000, episode_reward=-94.81 +/- 48.61
+Episode length: 697.43 +/- 336.78
+Eval num_timesteps=115000, episode_reward=-1.48 +/- 112.10
+Episode length: 518.83 +/- 293.92
+New best mean reward!
+Eval num_timesteps=120000, episode_reward=-56.15 +/- 101.57
+Episode length: 428.49 +/- 264.57
+Eval num_timesteps=125000, episode_reward=-7.68 +/- 116.40
+Episode length: 375.33 +/- 224.67
+Eval num_timesteps=130000, episode_reward=-101.57 +/- 35.36
+Episode length: 454.44 +/- 332.39
+Eval num_timesteps=135000, episode_reward=-89.42 +/- 56.63
+Episode length: 474.68 +/- 336.05
+Eval num_timesteps=140000, episode_reward=-109.98 +/- 39.80
+Episode length: 555.70 +/- 378.05
+Eval num_timesteps=145000, episode_reward=-104.44 +/- 50.43
+Episode length: 578.60 +/- 360.27
+Eval num_timesteps=150000, episode_reward=-68.61 +/- 77.52
+Episode length: 642.42 +/- 351.75
+Eval num_timesteps=155000, episode_reward=-80.39 +/- 56.16
+Episode length: 665.77 +/- 364.76
+Eval num_timesteps=160000, episode_reward=-64.74 +/- 60.44
+Episode length: 612.17 +/- 375.38
+Eval num_timesteps=165000, episode_reward=-87.53 +/- 48.47
+Episode length: 603.98 +/- 368.76
+Eval num_timesteps=170000, episode_reward=-76.92 +/- 77.07
+Episode length: 631.05 +/- 356.05
+Eval num_timesteps=175000, episode_reward=-117.47 +/- 39.44
+Episode length: 531.05 +/- 353.31
+Eval num_timesteps=180000, episode_reward=-112.55 +/- 34.40
+Episode length: 563.23 +/- 362.28
+Eval num_timesteps=185000, episode_reward=-89.26 +/- 48.38
+Episode length: 571.64 +/- 358.84
+Eval num_timesteps=190000, episode_reward=-92.87 +/- 59.54
+Episode length: 581.94 +/- 349.17
+Eval num_timesteps=195000, episode_reward=-92.07 +/- 53.10
+Episode length: 648.86 +/- 354.14
+Eval num_timesteps=200000, episode_reward=-93.59 +/- 46.66
+Episode length: 646.97 +/- 359.69
+FINISHED IN 2707.0032628060144 s
+
+
+starting seed  2104 
+
+
+<class 'torch.nn.modules.activation.ReLU'>
+running on  cuda
+Eval num_timesteps=5000, episode_reward=-277.00 +/- 26.21
+Episode length: 1000.00 +/- 0.00
+New best mean reward!
+Eval num_timesteps=10000, episode_reward=-10.31 +/- 35.30
+Episode length: 998.28 +/- 12.09
+New best mean reward!
+Eval num_timesteps=15000, episode_reward=59.19 +/- 137.43
+Episode length: 282.40 +/- 82.19
+New best mean reward!
+Eval num_timesteps=20000, episode_reward=-134.12 +/- 49.52
+Episode length: 371.40 +/- 147.10
+Eval num_timesteps=25000, episode_reward=-167.02 +/- 24.72
+Episode length: 381.75 +/- 163.14
+Eval num_timesteps=30000, episode_reward=-52.43 +/- 70.54
+Episode length: 898.60 +/- 206.73
+Eval num_timesteps=35000, episode_reward=-105.37 +/- 71.17
+Episode length: 758.72 +/- 284.38
+Eval num_timesteps=40000, episode_reward=-154.97 +/- 48.78
+Episode length: 571.32 +/- 264.59
+Eval num_timesteps=45000, episode_reward=-141.59 +/- 19.48
+Episode length: 316.71 +/- 132.11
+Eval num_timesteps=50000, episode_reward=-168.67 +/- 46.80
+Episode length: 802.60 +/- 282.80
+Eval num_timesteps=55000, episode_reward=-150.70 +/- 51.90
+Episode length: 667.93 +/- 323.58
+Eval num_timesteps=60000, episode_reward=-107.39 +/- 42.59
+Episode length: 529.42 +/- 352.03
+Eval num_timesteps=65000, episode_reward=-132.41 +/- 46.36
+Episode length: 581.10 +/- 356.23
+Eval num_timesteps=70000, episode_reward=-105.07 +/- 59.11
+Episode length: 467.70 +/- 320.97
+Eval num_timesteps=75000, episode_reward=-119.12 +/- 46.68
+Episode length: 556.88 +/- 340.26
+Eval num_timesteps=80000, episode_reward=-66.14 +/- 81.64
+Episode length: 662.49 +/- 346.01
+Eval num_timesteps=85000, episode_reward=-99.15 +/- 66.42
+Episode length: 381.17 +/- 238.93
+Eval num_timesteps=90000, episode_reward=-93.70 +/- 57.45
+Episode length: 562.88 +/- 359.40
+Eval num_timesteps=95000, episode_reward=-104.67 +/- 33.83
+Episode length: 719.29 +/- 358.91
+Eval num_timesteps=100000, episode_reward=-111.41 +/- 35.98
+Episode length: 526.07 +/- 346.94
+Eval num_timesteps=105000, episode_reward=-62.85 +/- 80.95
+Episode length: 553.87 +/- 320.14
+Eval num_timesteps=110000, episode_reward=-5.10 +/- 112.60
+Episode length: 476.53 +/- 269.41
+Eval num_timesteps=115000, episode_reward=-13.68 +/- 116.63
+Episode length: 306.67 +/- 135.96
+Eval num_timesteps=120000, episode_reward=-41.69 +/- 104.81
+Episode length: 312.19 +/- 152.44
+Eval num_timesteps=125000, episode_reward=-37.42 +/- 106.83
+Episode length: 350.88 +/- 181.96
+Eval num_timesteps=130000, episode_reward=-17.91 +/- 112.81
+Episode length: 334.95 +/- 162.46
+Eval num_timesteps=135000, episode_reward=-32.88 +/- 111.82
+Episode length: 323.93 +/- 136.08
+Eval num_timesteps=140000, episode_reward=11.23 +/- 123.10
+Episode length: 373.34 +/- 159.03
+Eval num_timesteps=145000, episode_reward=9.40 +/- 122.44
+Episode length: 421.68 +/- 227.87
+Eval num_timesteps=150000, episode_reward=-10.76 +/- 115.87
+Episode length: 361.07 +/- 152.32
+Eval num_timesteps=155000, episode_reward=-24.40 +/- 112.60
+Episode length: 352.15 +/- 172.40
+Eval num_timesteps=160000, episode_reward=-12.18 +/- 120.39
+Episode length: 365.24 +/- 180.95
+Eval num_timesteps=165000, episode_reward=-32.85 +/- 114.09
+Episode length: 384.81 +/- 222.27
+Eval num_timesteps=170000, episode_reward=-25.10 +/- 107.67
+Episode length: 338.35 +/- 177.03
+Eval num_timesteps=175000, episode_reward=-26.35 +/- 115.19
+Episode length: 330.19 +/- 145.25
+Eval num_timesteps=180000, episode_reward=-9.80 +/- 114.39
+Episode length: 350.47 +/- 203.64
+Eval num_timesteps=185000, episode_reward=-46.42 +/- 99.33
+Episode length: 330.79 +/- 177.49
+Eval num_timesteps=190000, episode_reward=-10.93 +/- 110.13
+Episode length: 358.62 +/- 196.68
+Eval num_timesteps=195000, episode_reward=-12.04 +/- 117.18
+Episode length: 323.30 +/- 162.18
+Eval num_timesteps=200000, episode_reward=-36.12 +/- 97.73
+Episode length: 319.05 +/- 172.60
+FINISHED IN 2134.9328070369957 s
+
+
+starting seed  2105 
+
+
+<class 'torch.nn.modules.activation.ReLU'>
+running on  cuda
+Eval num_timesteps=5000, episode_reward=-204.56 +/- 86.26
+Episode length: 70.52 +/- 13.91
+New best mean reward!
+Eval num_timesteps=10000, episode_reward=-149.39 +/- 73.88
+Episode length: 967.33 +/- 160.37
+New best mean reward!
+Eval num_timesteps=15000, episode_reward=41.97 +/- 119.33
+Episode length: 374.97 +/- 176.34
+New best mean reward!
+Eval num_timesteps=20000, episode_reward=88.92 +/- 99.80
+Episode length: 502.45 +/- 382.78
+New best mean reward!
+Eval num_timesteps=25000, episode_reward=-54.08 +/- 24.44
+Episode length: 81.04 +/- 12.54
+Eval num_timesteps=30000, episode_reward=-117.92 +/- 28.84
+Episode length: 294.12 +/- 58.91
+Eval num_timesteps=35000, episode_reward=-112.31 +/- 76.56
+Episode length: 835.77 +/- 220.03
+Eval num_timesteps=40000, episode_reward=-123.32 +/- 19.34
+Episode length: 982.82 +/- 101.64
+Eval num_timesteps=45000, episode_reward=-150.99 +/- 44.51
+Episode length: 819.44 +/- 259.26
+Eval num_timesteps=50000, episode_reward=-91.81 +/- 25.88
+Episode length: 1000.00 +/- 0.00
+Eval num_timesteps=55000, episode_reward=-100.75 +/- 35.20
+Episode length: 939.44 +/- 181.90
+Eval num_timesteps=60000, episode_reward=-146.42 +/- 24.17
+Episode length: 960.30 +/- 123.10
+Eval num_timesteps=65000, episode_reward=-156.28 +/- 54.96
+Episode length: 761.80 +/- 256.45
+Eval num_timesteps=70000, episode_reward=-106.26 +/- 61.59
+Episode length: 879.56 +/- 206.73
+Eval num_timesteps=75000, episode_reward=-66.83 +/- 34.96
+Episode length: 943.16 +/- 176.42
+Eval num_timesteps=80000, episode_reward=-65.12 +/- 24.90
+Episode length: 976.99 +/- 123.01
+Eval num_timesteps=85000, episode_reward=-96.92 +/- 68.22
+Episode length: 825.40 +/- 270.89
+Eval num_timesteps=90000, episode_reward=-128.45 +/- 39.55
+Episode length: 587.32 +/- 347.40
+Eval num_timesteps=95000, episode_reward=-126.55 +/- 46.22
+Episode length: 671.60 +/- 344.97
+Eval num_timesteps=100000, episode_reward=-100.73 +/- 30.71
+Episode length: 833.46 +/- 300.14
+Eval num_timesteps=105000, episode_reward=-159.52 +/- 48.05
+Episode length: 535.84 +/- 342.17
+Eval num_timesteps=110000, episode_reward=-133.34 +/- 32.03
+Episode length: 485.03 +/- 350.42
+Eval num_timesteps=115000, episode_reward=-117.56 +/- 41.16
+Episode length: 517.89 +/- 334.79
+Eval num_timesteps=120000, episode_reward=-123.70 +/- 40.52
+Episode length: 509.01 +/- 335.82
+Eval num_timesteps=125000, episode_reward=-112.69 +/- 44.48
+Episode length: 442.68 +/- 316.53
+Eval num_timesteps=130000, episode_reward=-100.49 +/- 47.43
+Episode length: 436.86 +/- 339.30
+Eval num_timesteps=135000, episode_reward=-105.29 +/- 39.46
+Episode length: 484.21 +/- 344.76
+Eval num_timesteps=140000, episode_reward=-111.22 +/- 49.57
+Episode length: 333.23 +/- 240.68
+Eval num_timesteps=145000, episode_reward=-97.67 +/- 77.79
+Episode length: 335.89 +/- 249.89
+Eval num_timesteps=150000, episode_reward=-108.48 +/- 62.49
+Episode length: 331.26 +/- 194.49
+Eval num_timesteps=155000, episode_reward=-90.08 +/- 78.80
+Episode length: 316.66 +/- 208.91
+Eval num_timesteps=160000, episode_reward=-104.48 +/- 52.37
+Episode length: 379.29 +/- 283.29
+Eval num_timesteps=165000, episode_reward=-52.93 +/- 92.71
+Episode length: 374.01 +/- 234.79
+Eval num_timesteps=170000, episode_reward=-93.79 +/- 82.36
+Episode length: 450.58 +/- 294.70
+Eval num_timesteps=175000, episode_reward=-84.06 +/- 87.56
+Episode length: 377.94 +/- 264.33
+Eval num_timesteps=180000, episode_reward=-103.49 +/- 66.86
+Episode length: 424.65 +/- 280.60
+Eval num_timesteps=185000, episode_reward=-94.33 +/- 80.51
+Episode length: 464.32 +/- 308.53
+Eval num_timesteps=190000, episode_reward=-102.59 +/- 50.99
+Episode length: 448.71 +/- 330.74
+Eval num_timesteps=195000, episode_reward=-111.75 +/- 43.14
+Episode length: 413.08 +/- 300.89
+Eval num_timesteps=200000, episode_reward=-110.79 +/- 52.05
+Episode length: 447.68 +/- 317.42
+FINISHED IN 2436.43680171101 s
+
+
+starting seed  2106 
+
+
+<class 'torch.nn.modules.activation.ReLU'>
+running on  cuda
+Eval num_timesteps=5000, episode_reward=-232.87 +/- 93.81
+Episode length: 113.98 +/- 37.54
+New best mean reward!
+Eval num_timesteps=10000, episode_reward=-162.39 +/- 32.98
+Episode length: 667.96 +/- 150.32
+New best mean reward!
+Eval num_timesteps=15000, episode_reward=-72.76 +/- 24.40
+Episode length: 1000.00 +/- 0.00
+New best mean reward!
+Eval num_timesteps=20000, episode_reward=-66.31 +/- 24.71
+Episode length: 1000.00 +/- 0.00
+New best mean reward!
+Eval num_timesteps=25000, episode_reward=-61.00 +/- 22.09
+Episode length: 1000.00 +/- 0.00
+New best mean reward!
+Eval num_timesteps=30000, episode_reward=57.10 +/- 55.04
+Episode length: 965.00 +/- 82.77
+New best mean reward!
+Eval num_timesteps=35000, episode_reward=-26.86 +/- 63.52
+Episode length: 978.17 +/- 52.51
+Eval num_timesteps=40000, episode_reward=-2.05 +/- 93.51
+Episode length: 899.71 +/- 111.94
+Eval num_timesteps=45000, episode_reward=7.49 +/- 84.59
+Episode length: 929.50 +/- 100.58
+Eval num_timesteps=50000, episode_reward=-11.45 +/- 121.88
+Episode length: 584.28 +/- 152.64
+Eval num_timesteps=55000, episode_reward=-42.40 +/- 58.43
+Episode length: 980.29 +/- 72.27
+Eval num_timesteps=60000, episode_reward=77.98 +/- 142.17
+Episode length: 356.25 +/- 100.89
+New best mean reward!
+Eval num_timesteps=65000, episode_reward=-67.20 +/- 74.57
+Episode length: 761.00 +/- 305.23
+Eval num_timesteps=70000, episode_reward=-29.42 +/- 26.00
+Episode length: 991.94 +/- 80.20
+Eval num_timesteps=75000, episode_reward=-124.64 +/- 42.28
+Episode length: 640.95 +/- 311.36
+Eval num_timesteps=80000, episode_reward=-86.84 +/- 47.53
+Episode length: 649.83 +/- 357.56
+Eval num_timesteps=85000, episode_reward=-39.88 +/- 36.76
+Episode length: 835.60 +/- 310.58
+Eval num_timesteps=90000, episode_reward=-46.42 +/- 65.51
+Episode length: 772.21 +/- 328.27
+Eval num_timesteps=95000, episode_reward=-15.26 +/- 113.64
+Episode length: 514.64 +/- 285.09
+Eval num_timesteps=100000, episode_reward=2.20 +/- 99.60
+Episode length: 739.05 +/- 294.20
+Eval num_timesteps=105000, episode_reward=-53.99 +/- 54.68
+Episode length: 657.35 +/- 371.02
+Eval num_timesteps=110000, episode_reward=51.93 +/- 121.17
+Episode length: 537.78 +/- 303.16
+Eval num_timesteps=115000, episode_reward=21.89 +/- 105.07
+Episode length: 706.34 +/- 315.51
+Eval num_timesteps=120000, episode_reward=-97.44 +/- 112.28
+Episode length: 421.77 +/- 252.54
+Eval num_timesteps=125000, episode_reward=-56.22 +/- 64.46
+Episode length: 820.90 +/- 304.02
+Eval num_timesteps=130000, episode_reward=-102.98 +/- 44.76
+Episode length: 597.55 +/- 358.12
+Eval num_timesteps=135000, episode_reward=-52.21 +/- 76.33
+Episode length: 677.04 +/- 335.94
+Eval num_timesteps=140000, episode_reward=-33.10 +/- 57.76
+Episode length: 859.40 +/- 263.47
+Eval num_timesteps=145000, episode_reward=-10.23 +/- 95.06
+Episode length: 617.57 +/- 337.49
+Eval num_timesteps=150000, episode_reward=-34.24 +/- 107.92
+Episode length: 494.17 +/- 317.92
+Eval num_timesteps=155000, episode_reward=-2.66 +/- 116.05
+Episode length: 619.32 +/- 333.15
+Eval num_timesteps=160000, episode_reward=-47.40 +/- 95.86
+Episode length: 517.92 +/- 346.98
+Eval num_timesteps=165000, episode_reward=-20.64 +/- 100.19
+Episode length: 485.56 +/- 346.34
+Eval num_timesteps=170000, episode_reward=-11.89 +/- 100.43
+Episode length: 451.91 +/- 338.62
+Eval num_timesteps=175000, episode_reward=-19.02 +/- 107.96
+Episode length: 456.38 +/- 321.54
+Eval num_timesteps=180000, episode_reward=4.04 +/- 107.05
+Episode length: 454.76 +/- 339.97
+Eval num_timesteps=185000, episode_reward=24.05 +/- 117.08
+Episode length: 403.18 +/- 304.29
+Eval num_timesteps=190000, episode_reward=17.65 +/- 121.03
+Episode length: 347.42 +/- 246.79
+Eval num_timesteps=195000, episode_reward=20.88 +/- 122.72
+Episode length: 324.28 +/- 201.52
+Eval num_timesteps=200000, episode_reward=30.95 +/- 125.97
+Episode length: 329.56 +/- 224.51
+FINISHED IN 3018.150886016985 s
+
+
+starting seed  2107 
+
+
+<class 'torch.nn.modules.activation.ReLU'>
+running on  cuda
+Eval num_timesteps=5000, episode_reward=-411.98 +/- 25.55
+Episode length: 71.76 +/- 9.98
+New best mean reward!
+Eval num_timesteps=10000, episode_reward=-315.21 +/- 244.29
+Episode length: 262.42 +/- 127.97
+New best mean reward!
+Eval num_timesteps=15000, episode_reward=63.24 +/- 130.83
+Episode length: 539.55 +/- 169.38
+New best mean reward!
+Eval num_timesteps=20000, episode_reward=3.38 +/- 125.44
+Episode length: 347.28 +/- 155.58
+Eval num_timesteps=25000, episode_reward=170.67 +/- 108.22
+Episode length: 370.81 +/- 213.45
+New best mean reward!
+Eval num_timesteps=30000, episode_reward=52.59 +/- 138.66
+Episode length: 453.07 +/- 164.15
+Eval num_timesteps=35000, episode_reward=-115.47 +/- 63.17
+Episode length: 796.75 +/- 229.21
+Eval num_timesteps=40000, episode_reward=-85.49 +/- 86.80
+Episode length: 489.61 +/- 218.51
+Eval num_timesteps=45000, episode_reward=-12.71 +/- 101.68
+Episode length: 681.44 +/- 191.03
+Eval num_timesteps=50000, episode_reward=-6.76 +/- 33.17
+Episode length: 999.24 +/- 4.23
+Eval num_timesteps=55000, episode_reward=-71.66 +/- 33.65
+Episode length: 969.98 +/- 117.62
+Eval num_timesteps=60000, episode_reward=-152.08 +/- 67.14
+Episode length: 851.24 +/- 216.34
+Eval num_timesteps=65000, episode_reward=-123.20 +/- 55.45
+Episode length: 788.97 +/- 259.77
+Eval num_timesteps=70000, episode_reward=-52.14 +/- 33.88
+Episode length: 982.65 +/- 99.10
+Eval num_timesteps=75000, episode_reward=-73.65 +/- 39.61
+Episode length: 867.28 +/- 271.09
+Eval num_timesteps=80000, episode_reward=-160.37 +/- 56.11
+Episode length: 827.45 +/- 278.72
+Eval num_timesteps=85000, episode_reward=-91.43 +/- 37.94
+Episode length: 701.28 +/- 345.78
+Eval num_timesteps=90000, episode_reward=-89.24 +/- 46.61
+Episode length: 766.74 +/- 336.02
+Eval num_timesteps=95000, episode_reward=-58.40 +/- 57.34
+Episode length: 702.34 +/- 342.79
+Eval num_timesteps=100000, episode_reward=-41.44 +/- 112.45
+Episode length: 454.40 +/- 255.27
+Eval num_timesteps=105000, episode_reward=-72.02 +/- 98.54
+Episode length: 544.77 +/- 307.18
+Eval num_timesteps=110000, episode_reward=-116.43 +/- 55.54
+Episode length: 449.02 +/- 293.55
+Eval num_timesteps=115000, episode_reward=-99.49 +/- 35.61
+Episode length: 646.76 +/- 363.61
+Eval num_timesteps=120000, episode_reward=-75.45 +/- 37.53
+Episode length: 721.93 +/- 362.48
+Eval num_timesteps=125000, episode_reward=-81.50 +/- 51.11
+Episode length: 633.92 +/- 355.61
+Eval num_timesteps=130000, episode_reward=-74.81 +/- 55.08
+Episode length: 705.17 +/- 327.61
+Eval num_timesteps=135000, episode_reward=-85.44 +/- 41.57
+Episode length: 721.29 +/- 350.54
+Eval num_timesteps=140000, episode_reward=-50.56 +/- 85.93
+Episode length: 633.05 +/- 328.47
+Eval num_timesteps=145000, episode_reward=-113.29 +/- 65.55
+Episode length: 508.16 +/- 312.47
+Eval num_timesteps=150000, episode_reward=-107.12 +/- 38.67
+Episode length: 741.42 +/- 345.29
+Eval num_timesteps=155000, episode_reward=-87.86 +/- 39.64
+Episode length: 663.01 +/- 372.76
+Eval num_timesteps=160000, episode_reward=-85.07 +/- 42.07
+Episode length: 697.54 +/- 351.10
+Eval num_timesteps=165000, episode_reward=-118.76 +/- 36.58
+Episode length: 594.25 +/- 336.02
+Eval num_timesteps=170000, episode_reward=-93.91 +/- 55.56
+Episode length: 571.44 +/- 352.71
+Eval num_timesteps=175000, episode_reward=-99.41 +/- 45.69
+Episode length: 556.18 +/- 351.49
+Eval num_timesteps=180000, episode_reward=-103.29 +/- 47.58
+Episode length: 579.84 +/- 360.26
+Eval num_timesteps=185000, episode_reward=-102.52 +/- 33.39
+Episode length: 592.57 +/- 375.61
+Eval num_timesteps=190000, episode_reward=-109.55 +/- 36.73
+Episode length: 499.04 +/- 334.58
+Eval num_timesteps=195000, episode_reward=-110.85 +/- 44.48
+Episode length: 562.59 +/- 345.98
+Eval num_timesteps=200000, episode_reward=-107.63 +/- 38.55
+Episode length: 519.79 +/- 347.71
+FINISHED IN 2815.8898751040106 s
+
+
+starting seed  2108 
+
+
+<class 'torch.nn.modules.activation.ReLU'>
+running on  cuda
+Eval num_timesteps=5000, episode_reward=-175.33 +/- 70.97
+Episode length: 70.29 +/- 14.01
+New best mean reward!
+Eval num_timesteps=10000, episode_reward=-878.43 +/- 73.32
+Episode length: 351.71 +/- 34.35
+Eval num_timesteps=15000, episode_reward=-68.26 +/- 64.99
+Episode length: 980.25 +/- 45.16
+New best mean reward!
+Eval num_timesteps=20000, episode_reward=176.19 +/- 96.48
+Episode length: 520.28 +/- 120.13
+New best mean reward!
+Eval num_timesteps=25000, episode_reward=-36.95 +/- 19.49
+Episode length: 1000.00 +/- 0.00
+Eval num_timesteps=30000, episode_reward=108.87 +/- 121.15
+Episode length: 507.41 +/- 141.99
+Eval num_timesteps=35000, episode_reward=74.42 +/- 129.08
+Episode length: 469.63 +/- 150.28
+Eval num_timesteps=40000, episode_reward=26.67 +/- 81.86
+Episode length: 920.97 +/- 110.77
+Eval num_timesteps=45000, episode_reward=-59.61 +/- 30.55
+Episode length: 1000.00 +/- 0.00
+Eval num_timesteps=50000, episode_reward=-81.77 +/- 42.77
+Episode length: 989.84 +/- 49.54
+Eval num_timesteps=55000, episode_reward=99.29 +/- 101.59
+Episode length: 730.96 +/- 113.76
+Eval num_timesteps=60000, episode_reward=-48.65 +/- 39.58
+Episode length: 989.70 +/- 45.90
+Eval num_timesteps=65000, episode_reward=104.54 +/- 113.56
+Episode length: 564.68 +/- 134.20
+Eval num_timesteps=70000, episode_reward=72.69 +/- 120.97
+Episode length: 557.09 +/- 158.52
+Eval num_timesteps=75000, episode_reward=114.80 +/- 126.42
+Episode length: 301.68 +/- 143.99
+Eval num_timesteps=80000, episode_reward=67.25 +/- 138.37
+Episode length: 287.26 +/- 83.50
+Eval num_timesteps=85000, episode_reward=-5.87 +/- 130.28
+Episode length: 320.98 +/- 136.51
+Eval num_timesteps=90000, episode_reward=25.99 +/- 129.17
+Episode length: 274.45 +/- 118.99
+Eval num_timesteps=95000, episode_reward=9.94 +/- 118.03
+Episode length: 424.88 +/- 174.98
+Eval num_timesteps=100000, episode_reward=-89.44 +/- 48.22
+Episode length: 686.57 +/- 350.86
+Eval num_timesteps=105000, episode_reward=-89.26 +/- 26.52
+Episode length: 905.79 +/- 255.34
+Eval num_timesteps=110000, episode_reward=-50.13 +/- 51.74
+Episode length: 822.62 +/- 312.70
+Eval num_timesteps=115000, episode_reward=-0.42 +/- 117.33
+Episode length: 324.96 +/- 165.57
+Eval num_timesteps=120000, episode_reward=-29.41 +/- 113.07
+Episode length: 292.01 +/- 153.48
+Eval num_timesteps=125000, episode_reward=-26.09 +/- 104.39
+Episode length: 503.94 +/- 292.73
+Eval num_timesteps=130000, episode_reward=-102.63 +/- 41.83
+Episode length: 451.74 +/- 309.40
+Eval num_timesteps=135000, episode_reward=-112.23 +/- 42.57
+Episode length: 599.13 +/- 356.91
+Eval num_timesteps=140000, episode_reward=-124.82 +/- 35.38
+Episode length: 702.75 +/- 364.36
+Eval num_timesteps=145000, episode_reward=-136.49 +/- 47.20
+Episode length: 649.37 +/- 358.10
+Eval num_timesteps=150000, episode_reward=-100.38 +/- 60.87
+Episode length: 574.49 +/- 354.48
+Eval num_timesteps=155000, episode_reward=-80.27 +/- 60.09
+Episode length: 590.16 +/- 364.98
+Eval num_timesteps=160000, episode_reward=-151.46 +/- 50.75
+Episode length: 537.47 +/- 347.02
+Eval num_timesteps=165000, episode_reward=-136.05 +/- 36.61
+Episode length: 628.16 +/- 365.22
+Eval num_timesteps=170000, episode_reward=-107.13 +/- 33.09
+Episode length: 680.72 +/- 378.19
+Eval num_timesteps=175000, episode_reward=-105.81 +/- 38.71
+Episode length: 643.96 +/- 370.11
+Eval num_timesteps=180000, episode_reward=-137.47 +/- 52.09
+Episode length: 598.20 +/- 345.09
+Eval num_timesteps=185000, episode_reward=-95.97 +/- 45.11
+Episode length: 635.56 +/- 361.54
+Eval num_timesteps=190000, episode_reward=-100.90 +/- 44.12
+Episode length: 622.94 +/- 353.53
+Eval num_timesteps=195000, episode_reward=-102.33 +/- 41.85
+Episode length: 585.01 +/- 357.15
+Eval num_timesteps=200000, episode_reward=-86.33 +/- 47.06
+Episode length: 654.88 +/- 371.84
+FINISHED IN 2666.0570361350256 s
+
+
+starting seed  2109 
+
+
+<class 'torch.nn.modules.activation.ReLU'>
+running on  cuda
+Eval num_timesteps=5000, episode_reward=-679.88 +/- 85.11
+Episode length: 108.54 +/- 18.61
+New best mean reward!
+Eval num_timesteps=10000, episode_reward=-225.68 +/- 31.26
+Episode length: 541.93 +/- 158.25
+New best mean reward!
+Eval num_timesteps=15000, episode_reward=44.34 +/- 138.10
+Episode length: 481.38 +/- 143.94
+New best mean reward!
+Eval num_timesteps=20000, episode_reward=-126.47 +/- 60.54
+Episode length: 641.27 +/- 178.51
+Eval num_timesteps=25000, episode_reward=62.37 +/- 130.50
+Episode length: 575.69 +/- 154.19
+New best mean reward!
+Eval num_timesteps=30000, episode_reward=-73.60 +/- 107.89
+Episode length: 900.69 +/- 118.30
+Eval num_timesteps=35000, episode_reward=-50.38 +/- 81.16
+Episode length: 863.77 +/- 164.23
+Eval num_timesteps=40000, episode_reward=-38.77 +/- 86.51
+Episode length: 893.61 +/- 136.15
+Eval num_timesteps=45000, episode_reward=145.35 +/- 98.84
+Episode length: 572.83 +/- 127.21
+New best mean reward!
+Eval num_timesteps=50000, episode_reward=-33.00 +/- 77.39
+Episode length: 945.71 +/- 105.20
+Eval num_timesteps=55000, episode_reward=35.35 +/- 141.94
+Episode length: 488.54 +/- 162.65
+Eval num_timesteps=60000, episode_reward=-53.05 +/- 107.99
+Episode length: 625.30 +/- 250.26
+Eval num_timesteps=65000, episode_reward=-126.44 +/- 44.84
+Episode length: 762.60 +/- 283.97
+Eval num_timesteps=70000, episode_reward=-133.79 +/- 49.76
+Episode length: 635.27 +/- 306.18
+Eval num_timesteps=75000, episode_reward=-161.95 +/- 26.77
+Episode length: 438.89 +/- 223.42
+Eval num_timesteps=80000, episode_reward=-125.28 +/- 55.69
+Episode length: 639.76 +/- 317.49
+Eval num_timesteps=85000, episode_reward=-107.32 +/- 27.24
+Episode length: 795.78 +/- 306.27
+Eval num_timesteps=90000, episode_reward=-59.30 +/- 24.10
+Episode length: 909.40 +/- 231.66
+Eval num_timesteps=95000, episode_reward=-94.89 +/- 36.39
+Episode length: 742.13 +/- 312.14
+Eval num_timesteps=100000, episode_reward=-130.61 +/- 54.08
+Episode length: 590.04 +/- 314.28
+Eval num_timesteps=105000, episode_reward=13.06 +/- 123.61
+Episode length: 351.17 +/- 145.39
+Eval num_timesteps=110000, episode_reward=-61.54 +/- 97.42
+Episode length: 414.21 +/- 222.49
+Eval num_timesteps=115000, episode_reward=-57.38 +/- 69.25
+Episode length: 722.49 +/- 325.11
+Eval num_timesteps=120000, episode_reward=-62.45 +/- 42.51
+Episode length: 805.11 +/- 312.56
+Eval num_timesteps=125000, episode_reward=-76.11 +/- 77.32
+Episode length: 521.67 +/- 305.43
+Eval num_timesteps=130000, episode_reward=-76.02 +/- 73.85
+Episode length: 507.96 +/- 330.48
+Eval num_timesteps=135000, episode_reward=-23.55 +/- 109.85
+Episode length: 427.77 +/- 265.63
+Eval num_timesteps=140000, episode_reward=-93.43 +/- 48.80
+Episode length: 558.71 +/- 348.47
+Eval num_timesteps=145000, episode_reward=-76.91 +/- 79.20
+Episode length: 545.55 +/- 306.86
+Eval num_timesteps=150000, episode_reward=-56.78 +/- 106.97
+Episode length: 477.52 +/- 270.38
+Eval num_timesteps=155000, episode_reward=-34.14 +/- 103.42
+Episode length: 500.34 +/- 276.15
+Eval num_timesteps=160000, episode_reward=-2.88 +/- 126.75
+Episode length: 402.50 +/- 200.53
+Eval num_timesteps=165000, episode_reward=22.70 +/- 121.27
+Episode length: 335.52 +/- 153.53
+Eval num_timesteps=170000, episode_reward=33.33 +/- 124.35
+Episode length: 313.96 +/- 152.37
+Eval num_timesteps=175000, episode_reward=66.06 +/- 131.93
+Episode length: 353.74 +/- 180.47
+Eval num_timesteps=180000, episode_reward=58.58 +/- 130.79
+Episode length: 361.58 +/- 191.84
+Eval num_timesteps=185000, episode_reward=45.26 +/- 129.54
+Episode length: 306.44 +/- 114.21
+Eval num_timesteps=190000, episode_reward=34.47 +/- 126.86
+Episode length: 320.43 +/- 143.17
+Eval num_timesteps=195000, episode_reward=32.25 +/- 130.72
+Episode length: 329.73 +/- 154.78
+Eval num_timesteps=200000, episode_reward=24.45 +/- 118.86
+Episode length: 348.42 +/- 192.50
+FINISHED IN 2251.4919812139997 s
+
+
+starting seed  2110 
+
+
+<class 'torch.nn.modules.activation.ReLU'>
+running on  cuda
+Eval num_timesteps=5000, episode_reward=-601.21 +/- 79.00
+Episode length: 87.73 +/- 9.52
+New best mean reward!
+Eval num_timesteps=10000, episode_reward=-376.62 +/- 99.86
+Episode length: 550.16 +/- 157.09
+New best mean reward!
+Eval num_timesteps=15000, episode_reward=-239.05 +/- 43.13
+Episode length: 699.91 +/- 159.76
+New best mean reward!
+Eval num_timesteps=20000, episode_reward=-78.26 +/- 25.94
+Episode length: 998.94 +/- 7.88
+New best mean reward!
+Eval num_timesteps=25000, episode_reward=-101.73 +/- 21.80
+Episode length: 1000.00 +/- 0.00
+Eval num_timesteps=30000, episode_reward=-42.30 +/- 113.08
+Episode length: 732.74 +/- 158.52
+New best mean reward!
+Eval num_timesteps=35000, episode_reward=-104.64 +/- 36.31
+Episode length: 951.18 +/- 120.19
+Eval num_timesteps=40000, episode_reward=-112.33 +/- 57.85
+Episode length: 416.13 +/- 128.65
+Eval num_timesteps=45000, episode_reward=-63.03 +/- 24.72
+Episode length: 1000.00 +/- 0.00
+Eval num_timesteps=50000, episode_reward=-113.43 +/- 50.50
+Episode length: 575.36 +/- 289.57
+Eval num_timesteps=55000, episode_reward=-111.69 +/- 69.64
+Episode length: 812.50 +/- 254.74
+Eval num_timesteps=60000, episode_reward=-105.83 +/- 50.83
+Episode length: 885.55 +/- 203.28
+Eval num_timesteps=65000, episode_reward=-49.83 +/- 38.43
+Episode length: 975.57 +/- 111.58
+Eval num_timesteps=70000, episode_reward=-32.80 +/- 24.31
+Episode length: 974.66 +/- 131.65
+New best mean reward!
+Eval num_timesteps=75000, episode_reward=-96.04 +/- 35.54
+Episode length: 902.74 +/- 224.86
+Eval num_timesteps=80000, episode_reward=-152.32 +/- 56.64
+Episode length: 653.61 +/- 282.32
+Eval num_timesteps=85000, episode_reward=-80.83 +/- 63.75
+Episode length: 820.39 +/- 272.79
+Eval num_timesteps=90000, episode_reward=-53.31 +/- 54.13
+Episode length: 858.91 +/- 263.76
+Eval num_timesteps=95000, episode_reward=-125.78 +/- 65.09
+Episode length: 592.29 +/- 319.87
+Eval num_timesteps=100000, episode_reward=-85.53 +/- 59.71
+Episode length: 766.29 +/- 299.41
+Eval num_timesteps=105000, episode_reward=-77.65 +/- 98.66
+Episode length: 693.42 +/- 294.36
+Eval num_timesteps=110000, episode_reward=-83.37 +/- 41.13
+Episode length: 672.33 +/- 363.51
+Eval num_timesteps=115000, episode_reward=-12.93 +/- 113.25
+Episode length: 461.26 +/- 210.13
+New best mean reward!
+Eval num_timesteps=120000, episode_reward=29.51 +/- 118.11
+Episode length: 721.77 +/- 218.34
+New best mean reward!
+Eval num_timesteps=125000, episode_reward=-37.41 +/- 102.23
+Episode length: 573.29 +/- 338.10
+Eval num_timesteps=130000, episode_reward=-41.28 +/- 86.53
+Episode length: 610.88 +/- 352.04
+Eval num_timesteps=135000, episode_reward=-86.83 +/- 73.73
+Episode length: 397.67 +/- 259.08
+Eval num_timesteps=140000, episode_reward=-58.79 +/- 99.58
+Episode length: 349.35 +/- 191.14
+Eval num_timesteps=145000, episode_reward=-20.21 +/- 114.02
+Episode length: 280.38 +/- 131.05
+Eval num_timesteps=150000, episode_reward=22.57 +/- 127.44
+Episode length: 295.40 +/- 122.19
+Eval num_timesteps=155000, episode_reward=22.40 +/- 133.48
+Episode length: 306.15 +/- 116.98
+Eval num_timesteps=160000, episode_reward=21.26 +/- 124.17
+Episode length: 385.77 +/- 226.87
+Eval num_timesteps=165000, episode_reward=40.06 +/- 122.99
+Episode length: 466.46 +/- 293.21
+New best mean reward!
+Eval num_timesteps=170000, episode_reward=-26.60 +/- 119.93
+Episode length: 421.19 +/- 283.21
+Eval num_timesteps=175000, episode_reward=-18.09 +/- 117.64
+Episode length: 540.69 +/- 318.29
+Eval num_timesteps=180000, episode_reward=-33.77 +/- 112.04
+Episode length: 509.04 +/- 317.11
+Eval num_timesteps=185000, episode_reward=-17.14 +/- 105.58
+Episode length: 548.46 +/- 327.37
+Eval num_timesteps=190000, episode_reward=-29.80 +/- 110.18
+Episode length: 530.40 +/- 306.14
+Eval num_timesteps=195000, episode_reward=-7.87 +/- 106.07
+Episode length: 569.08 +/- 308.24
+Eval num_timesteps=200000, episode_reward=-33.60 +/- 99.03
+Episode length: 552.75 +/- 329.86
+FINISHED IN 2737.7816084439983 s
+
+
+starting seed  2111 
+
+
+<class 'torch.nn.modules.activation.ReLU'>
+running on  cuda
+Eval num_timesteps=5000, episode_reward=-828.18 +/- 491.22
+Episode length: 120.86 +/- 49.97
+New best mean reward!
+Eval num_timesteps=10000, episode_reward=-820.78 +/- 545.06
+Episode length: 118.21 +/- 52.46
+New best mean reward!
+Eval num_timesteps=15000, episode_reward=-837.70 +/- 593.02
+Episode length: 121.10 +/- 55.92
+Eval num_timesteps=20000, episode_reward=-982.14 +/- 1037.55
+Episode length: 131.09 +/- 77.07
+Eval num_timesteps=25000, episode_reward=-715.91 +/- 410.59
+Episode length: 107.54 +/- 41.32
+New best mean reward!
+Eval num_timesteps=30000, episode_reward=-569.27 +/- 147.11
+Episode length: 66.10 +/- 10.89
+New best mean reward!
+Eval num_timesteps=35000, episode_reward=-577.28 +/- 170.85
+Episode length: 65.78 +/- 11.74
+Eval num_timesteps=40000, episode_reward=-598.78 +/- 168.57
+Episode length: 66.98 +/- 11.67
+Eval num_timesteps=45000, episode_reward=-588.49 +/- 103.93
+Episode length: 65.52 +/- 6.82
+Eval num_timesteps=50000, episode_reward=-570.16 +/- 98.24
+Episode length: 79.07 +/- 9.24
+Eval num_timesteps=55000, episode_reward=-638.03 +/- 74.91
+Episode length: 99.88 +/- 14.55
+Eval num_timesteps=60000, episode_reward=-889.50 +/- 412.36
+Episode length: 139.86 +/- 43.04
+Eval num_timesteps=65000, episode_reward=-864.99 +/- 574.56
+Episode length: 124.75 +/- 58.40
+Eval num_timesteps=70000, episode_reward=-881.48 +/- 697.18
+Episode length: 124.80 +/- 58.49
+Eval num_timesteps=75000, episode_reward=-929.31 +/- 770.07
+Episode length: 125.93 +/- 66.63
+Eval num_timesteps=80000, episode_reward=-825.80 +/- 455.34
+Episode length: 119.67 +/- 47.96
+Eval num_timesteps=85000, episode_reward=-847.27 +/- 495.67
+Episode length: 123.55 +/- 52.75
+Eval num_timesteps=90000, episode_reward=-883.72 +/- 545.26
+Episode length: 127.00 +/- 58.01
+Eval num_timesteps=95000, episode_reward=-925.79 +/- 766.54
+Episode length: 128.58 +/- 65.55
+Eval num_timesteps=100000, episode_reward=-131.22 +/- 38.04
+Episode length: 69.38 +/- 12.44
+New best mean reward!
+Eval num_timesteps=105000, episode_reward=-139.33 +/- 34.33
+Episode length: 70.21 +/- 12.12
+Eval num_timesteps=110000, episode_reward=-200.28 +/- 153.67
+Episode length: 93.38 +/- 36.53
+Eval num_timesteps=115000, episode_reward=-133.59 +/- 43.13
+Episode length: 72.45 +/- 14.44
+Eval num_timesteps=120000, episode_reward=-135.22 +/- 25.82
+Episode length: 69.87 +/- 10.16
+Eval num_timesteps=125000, episode_reward=-306.10 +/- 178.33
+Episode length: 132.25 +/- 80.23
+Eval num_timesteps=130000, episode_reward=-140.33 +/- 41.78
+Episode length: 71.12 +/- 12.51
+Eval num_timesteps=135000, episode_reward=-233.73 +/- 156.44
+Episode length: 112.20 +/- 40.96
+Eval num_timesteps=140000, episode_reward=-437.88 +/- 158.60
+Episode length: 115.15 +/- 34.35
+Eval num_timesteps=145000, episode_reward=-332.11 +/- 109.45
+Episode length: 172.15 +/- 58.98
+Eval num_timesteps=150000, episode_reward=-503.68 +/- 94.07
+Episode length: 142.78 +/- 38.61
+Eval num_timesteps=155000, episode_reward=-454.26 +/- 41.69
+Episode length: 197.04 +/- 37.94
+Eval num_timesteps=160000, episode_reward=-282.42 +/- 27.23
+Episode length: 275.63 +/- 56.89
+Eval num_timesteps=165000, episode_reward=-231.07 +/- 26.43
+Episode length: 256.24 +/- 59.32
+Eval num_timesteps=170000, episode_reward=-253.87 +/- 29.31
+Episode length: 243.83 +/- 55.69
+Eval num_timesteps=175000, episode_reward=-244.88 +/- 30.00
+Episode length: 501.75 +/- 122.71
+Eval num_timesteps=180000, episode_reward=-188.05 +/- 24.52
+Episode length: 388.81 +/- 107.12
+Eval num_timesteps=185000, episode_reward=-147.69 +/- 20.09
+Episode length: 301.12 +/- 90.58
+Eval num_timesteps=190000, episode_reward=-175.29 +/- 23.83
+Episode length: 403.61 +/- 121.61
+Eval num_timesteps=195000, episode_reward=-200.78 +/- 34.78
+Episode length: 527.94 +/- 151.34
+Eval num_timesteps=200000, episode_reward=-197.69 +/- 35.38
+Episode length: 611.94 +/- 182.93
+FINISHED IN 736.6997133120021 s
+
+
+starting seed  2112 
+
+
+<class 'torch.nn.modules.activation.ReLU'>
+running on  cuda
+Eval num_timesteps=5000, episode_reward=-7.76 +/- 40.90
+Episode length: 969.51 +/- 122.60
+New best mean reward!
+Eval num_timesteps=10000, episode_reward=168.76 +/- 59.96
+Episode length: 690.36 +/- 242.40
+New best mean reward!
+Eval num_timesteps=15000, episode_reward=-56.77 +/- 23.14
+Episode length: 1000.00 +/- 0.00
+Eval num_timesteps=20000, episode_reward=36.29 +/- 104.28
+Episode length: 953.01 +/- 52.88
+Eval num_timesteps=25000, episode_reward=182.68 +/- 80.13
+Episode length: 539.14 +/- 59.40
+New best mean reward!
+Eval num_timesteps=30000, episode_reward=-13.04 +/- 119.87
+Episode length: 322.41 +/- 66.95
+Eval num_timesteps=35000, episode_reward=-134.70 +/- 52.87
+Episode length: 856.68 +/- 183.59
+Eval num_timesteps=40000, episode_reward=62.38 +/- 139.07
+Episode length: 485.23 +/- 145.75
+Eval num_timesteps=45000, episode_reward=-55.64 +/- 20.70
+Episode length: 1000.00 +/- 0.00
+Eval num_timesteps=50000, episode_reward=-57.19 +/- 100.99
+Episode length: 776.02 +/- 193.55
+Eval num_timesteps=55000, episode_reward=-125.82 +/- 47.65
+Episode length: 613.33 +/- 273.67
+Eval num_timesteps=60000, episode_reward=-134.51 +/- 64.36
+Episode length: 828.82 +/- 218.23
+Eval num_timesteps=65000, episode_reward=-142.03 +/- 49.09
+Episode length: 619.69 +/- 276.86
+Eval num_timesteps=70000, episode_reward=-156.14 +/- 47.72
+Episode length: 604.74 +/- 287.71
+Eval num_timesteps=75000, episode_reward=-94.81 +/- 46.44
+Episode length: 683.40 +/- 327.75
+Eval num_timesteps=80000, episode_reward=-105.20 +/- 39.01
+Episode length: 886.30 +/- 236.93
+Eval num_timesteps=85000, episode_reward=-113.82 +/- 37.64
+Episode length: 871.14 +/- 254.26
+Eval num_timesteps=90000, episode_reward=-119.61 +/- 34.82
+Episode length: 882.04 +/- 245.04
+Eval num_timesteps=95000, episode_reward=-32.09 +/- 86.93
+Episode length: 864.68 +/- 224.77
+Eval num_timesteps=100000, episode_reward=-23.95 +/- 104.08
+Episode length: 565.62 +/- 277.70
+Eval num_timesteps=105000, episode_reward=-37.84 +/- 100.78
+Episode length: 551.35 +/- 275.21
+Eval num_timesteps=110000, episode_reward=-136.00 +/- 49.81
+Episode length: 630.04 +/- 328.10
+Eval num_timesteps=115000, episode_reward=-157.61 +/- 33.33
+Episode length: 766.69 +/- 335.35
+Eval num_timesteps=120000, episode_reward=-151.83 +/- 58.15
+Episode length: 708.53 +/- 340.86
+Eval num_timesteps=125000, episode_reward=-24.76 +/- 91.82
+Episode length: 702.78 +/- 297.43
+Eval num_timesteps=130000, episode_reward=-119.38 +/- 39.65
+Episode length: 561.21 +/- 359.01
+Eval num_timesteps=135000, episode_reward=-168.90 +/- 39.72
+Episode length: 573.77 +/- 340.42
+Eval num_timesteps=140000, episode_reward=-151.91 +/- 39.87
+Episode length: 462.10 +/- 325.69
+Eval num_timesteps=145000, episode_reward=-105.83 +/- 55.38
+Episode length: 503.89 +/- 337.21
+Eval num_timesteps=150000, episode_reward=-95.57 +/- 65.19
+Episode length: 426.45 +/- 303.83
+Eval num_timesteps=155000, episode_reward=-88.21 +/- 68.43
+Episode length: 399.53 +/- 283.33
+Eval num_timesteps=160000, episode_reward=-89.66 +/- 69.37
+Episode length: 382.82 +/- 275.05
+Eval num_timesteps=165000, episode_reward=-86.21 +/- 84.77
+Episode length: 423.35 +/- 304.19
+Eval num_timesteps=170000, episode_reward=-70.57 +/- 80.16
+Episode length: 398.25 +/- 280.49
+Eval num_timesteps=175000, episode_reward=-90.90 +/- 75.72
+Episode length: 378.15 +/- 247.52
+Eval num_timesteps=180000, episode_reward=-109.49 +/- 68.67
+Episode length: 425.96 +/- 278.87
+Eval num_timesteps=185000, episode_reward=-78.55 +/- 77.41
+Episode length: 423.94 +/- 302.15
+Eval num_timesteps=190000, episode_reward=-87.64 +/- 76.72
+Episode length: 373.30 +/- 264.25
+Eval num_timesteps=195000, episode_reward=-84.79 +/- 75.47
+Episode length: 404.88 +/- 283.92
+Eval num_timesteps=200000, episode_reward=-80.45 +/- 80.40
+Episode length: 428.54 +/- 271.23
+FINISHED IN 2683.934589272976 s
+
+
+starting seed  2113 
+
+
+<class 'torch.nn.modules.activation.ReLU'>
+running on  cuda
+Eval num_timesteps=5000, episode_reward=-590.42 +/- 185.95
+Episode length: 69.26 +/- 15.87
+New best mean reward!
+Eval num_timesteps=10000, episode_reward=-244.85 +/- 28.62
+Episode length: 1000.00 +/- 0.00
+New best mean reward!
+Eval num_timesteps=15000, episode_reward=-87.52 +/- 23.02
+Episode length: 1000.00 +/- 0.00
+New best mean reward!
+Eval num_timesteps=20000, episode_reward=-68.90 +/- 22.68
+Episode length: 1000.00 +/- 0.00
+New best mean reward!
+Eval num_timesteps=25000, episode_reward=-89.99 +/- 31.59
+Episode length: 1000.00 +/- 0.00
+Eval num_timesteps=30000, episode_reward=-78.09 +/- 23.96
+Episode length: 1000.00 +/- 0.00
+Eval num_timesteps=35000, episode_reward=-108.30 +/- 26.81
+Episode length: 1000.00 +/- 0.00
+Eval num_timesteps=40000, episode_reward=-23.63 +/- 21.42
+Episode length: 1000.00 +/- 0.00
+New best mean reward!
+Eval num_timesteps=45000, episode_reward=-0.52 +/- 109.99
+Episode length: 834.25 +/- 119.45
+New best mean reward!
+Eval num_timesteps=50000, episode_reward=-69.83 +/- 104.11
+Episode length: 889.29 +/- 134.32
+Eval num_timesteps=55000, episode_reward=-2.63 +/- 48.48
+Episode length: 993.83 +/- 22.50
+Eval num_timesteps=60000, episode_reward=34.09 +/- 96.46
+Episode length: 740.95 +/- 209.32
+New best mean reward!
+Eval num_timesteps=65000, episode_reward=-16.64 +/- 108.85
+Episode length: 693.01 +/- 240.71
+Eval num_timesteps=70000, episode_reward=-13.82 +/- 114.79
+Episode length: 642.56 +/- 259.14
+Eval num_timesteps=75000, episode_reward=-37.97 +/- 63.71
+Episode length: 813.71 +/- 314.06
+Eval num_timesteps=80000, episode_reward=-73.87 +/- 29.99
+Episode length: 854.96 +/- 301.66
+Eval num_timesteps=85000, episode_reward=-103.13 +/- 61.52
+Episode length: 649.05 +/- 361.10
+Eval num_timesteps=90000, episode_reward=-75.42 +/- 22.73
+Episode length: 894.69 +/- 272.90
+Eval num_timesteps=95000, episode_reward=-99.78 +/- 28.78
+Episode length: 765.12 +/- 353.79
+Eval num_timesteps=100000, episode_reward=-76.52 +/- 58.48
+Episode length: 643.02 +/- 370.21
+Eval num_timesteps=105000, episode_reward=-95.71 +/- 29.08
+Episode length: 707.16 +/- 373.91
+Eval num_timesteps=110000, episode_reward=-119.51 +/- 57.15
+Episode length: 618.94 +/- 306.64
+Eval num_timesteps=115000, episode_reward=-106.01 +/- 40.99
+Episode length: 387.53 +/- 276.97
+Eval num_timesteps=120000, episode_reward=-88.12 +/- 38.27
+Episode length: 561.47 +/- 364.61
+Eval num_timesteps=125000, episode_reward=-33.17 +/- 99.86
+Episode length: 669.07 +/- 335.22
+Eval num_timesteps=130000, episode_reward=-86.02 +/- 72.98
+Episode length: 517.30 +/- 312.19
+Eval num_timesteps=135000, episode_reward=-72.71 +/- 44.18
+Episode length: 676.09 +/- 363.19
+Eval num_timesteps=140000, episode_reward=-86.88 +/- 41.81
+Episode length: 504.16 +/- 347.87
+Eval num_timesteps=145000, episode_reward=-28.14 +/- 108.34
+Episode length: 411.70 +/- 213.60
+Eval num_timesteps=150000, episode_reward=-5.64 +/- 113.17
+Episode length: 402.26 +/- 220.08
+Eval num_timesteps=155000, episode_reward=-31.38 +/- 94.13
+Episode length: 490.55 +/- 310.33
+Eval num_timesteps=160000, episode_reward=-59.52 +/- 90.79
+Episode length: 573.92 +/- 348.74
+Eval num_timesteps=165000, episode_reward=-93.33 +/- 46.06
+Episode length: 523.17 +/- 338.43
+Eval num_timesteps=170000, episode_reward=-98.82 +/- 36.83
+Episode length: 514.09 +/- 350.61
+Eval num_timesteps=175000, episode_reward=-98.76 +/- 37.14
+Episode length: 555.67 +/- 357.90
+Eval num_timesteps=180000, episode_reward=-107.98 +/- 38.06
+Episode length: 513.70 +/- 357.15
+Eval num_timesteps=185000, episode_reward=-124.67 +/- 33.46
+Episode length: 484.58 +/- 354.59
+Eval num_timesteps=190000, episode_reward=-127.04 +/- 31.86
+Episode length: 428.32 +/- 297.47
+Eval num_timesteps=195000, episode_reward=-120.52 +/- 32.34
+Episode length: 435.03 +/- 325.71
+Eval num_timesteps=200000, episode_reward=-118.35 +/- 32.01
+Episode length: 413.25 +/- 317.22
+FINISHED IN 3093.615429354977 s
+
+
+starting seed  2114 
+
+
+<class 'torch.nn.modules.activation.ReLU'>
+running on  cuda
+Eval num_timesteps=5000, episode_reward=-155.01 +/- 56.62
+Episode length: 118.57 +/- 12.59
+New best mean reward!
+Eval num_timesteps=10000, episode_reward=-86.73 +/- 51.16
+Episode length: 984.01 +/- 45.28
+New best mean reward!
+Eval num_timesteps=15000, episode_reward=-42.99 +/- 40.78
+Episode length: 992.59 +/- 36.07
+New best mean reward!
+Eval num_timesteps=20000, episode_reward=112.36 +/- 78.03
+Episode length: 813.88 +/- 192.49
+New best mean reward!
+Eval num_timesteps=25000, episode_reward=-44.44 +/- 82.74
+Episode length: 976.72 +/- 92.47
+Eval num_timesteps=30000, episode_reward=59.28 +/- 128.83
+Episode length: 391.77 +/- 161.82
+Eval num_timesteps=35000, episode_reward=-22.27 +/- 124.85
+Episode length: 784.77 +/- 172.39
+Eval num_timesteps=40000, episode_reward=92.56 +/- 123.52
+Episode length: 429.99 +/- 116.40
+Eval num_timesteps=45000, episode_reward=64.24 +/- 126.40
+Episode length: 427.03 +/- 161.32
+Eval num_timesteps=50000, episode_reward=-57.37 +/- 118.94
+Episode length: 479.26 +/- 235.62
+Eval num_timesteps=55000, episode_reward=-127.99 +/- 45.48
+Episode length: 551.61 +/- 295.89
+Eval num_timesteps=60000, episode_reward=-84.55 +/- 62.43
+Episode length: 747.23 +/- 291.99
+Eval num_timesteps=65000, episode_reward=49.45 +/- 115.81
+Episode length: 763.79 +/- 168.28
+Eval num_timesteps=70000, episode_reward=45.44 +/- 112.70
+Episode length: 775.78 +/- 176.85
+Eval num_timesteps=75000, episode_reward=118.82 +/- 121.19
+Episode length: 353.83 +/- 123.51
+New best mean reward!
+Eval num_timesteps=80000, episode_reward=97.77 +/- 123.30
+Episode length: 547.41 +/- 183.24
+Eval num_timesteps=85000, episode_reward=-17.08 +/- 98.59
+Episode length: 640.42 +/- 286.32
+Eval num_timesteps=90000, episode_reward=-106.42 +/- 40.08
+Episode length: 750.62 +/- 291.64
+Eval num_timesteps=95000, episode_reward=-59.87 +/- 76.87
+Episode length: 730.92 +/- 335.28
+Eval num_timesteps=100000, episode_reward=-94.60 +/- 56.73
+Episode length: 644.21 +/- 380.76
+Eval num_timesteps=105000, episode_reward=-84.08 +/- 64.10
+Episode length: 479.51 +/- 334.25
+Eval num_timesteps=110000, episode_reward=-126.10 +/- 48.94
+Episode length: 524.30 +/- 330.81
+Eval num_timesteps=115000, episode_reward=-116.16 +/- 45.94
+Episode length: 607.74 +/- 352.97
+Eval num_timesteps=120000, episode_reward=-100.68 +/- 31.02
+Episode length: 596.06 +/- 375.50
+Eval num_timesteps=125000, episode_reward=-151.08 +/- 51.03
+Episode length: 498.37 +/- 334.02
+Eval num_timesteps=130000, episode_reward=-129.38 +/- 52.01
+Episode length: 546.07 +/- 355.53
+Eval num_timesteps=135000, episode_reward=-105.95 +/- 59.88
+Episode length: 544.49 +/- 339.92
+Eval num_timesteps=140000, episode_reward=-153.69 +/- 44.76
+Episode length: 399.00 +/- 297.34
+Eval num_timesteps=145000, episode_reward=-141.46 +/- 41.60
+Episode length: 457.24 +/- 299.33
+Eval num_timesteps=150000, episode_reward=-135.45 +/- 39.91
+Episode length: 505.01 +/- 334.84
+Eval num_timesteps=155000, episode_reward=-134.19 +/- 33.80
+Episode length: 450.23 +/- 333.14
+Eval num_timesteps=160000, episode_reward=-130.33 +/- 29.87
+Episode length: 328.65 +/- 240.59
+Eval num_timesteps=165000, episode_reward=-105.58 +/- 52.42
+Episode length: 419.08 +/- 305.46
+Eval num_timesteps=170000, episode_reward=-123.38 +/- 35.66
+Episode length: 439.53 +/- 316.97
+Eval num_timesteps=175000, episode_reward=-125.75 +/- 48.28
+Episode length: 431.90 +/- 309.90
+Eval num_timesteps=180000, episode_reward=-132.06 +/- 34.24
+Episode length: 408.97 +/- 307.87
+Eval num_timesteps=185000, episode_reward=-133.61 +/- 38.30
+Episode length: 414.94 +/- 305.68
+Eval num_timesteps=190000, episode_reward=-126.40 +/- 37.29
+Episode length: 392.53 +/- 293.80
+Eval num_timesteps=195000, episode_reward=-122.78 +/- 33.22
+Episode length: 398.96 +/- 300.21
+Eval num_timesteps=200000, episode_reward=-121.54 +/- 32.81
+Episode length: 415.12 +/- 316.56
+FINISHED IN 2604.4076486459817 s
+
+
+starting seed  2115 
+
+
+<class 'torch.nn.modules.activation.ReLU'>
+running on  cuda
+Eval num_timesteps=5000, episode_reward=-1917.30 +/- 155.05
+Episode length: 287.83 +/- 27.69
+New best mean reward!
+Eval num_timesteps=10000, episode_reward=-178.00 +/- 31.27
+Episode length: 1000.00 +/- 0.00
+New best mean reward!
+Eval num_timesteps=15000, episode_reward=-40.79 +/- 24.08
+Episode length: 1000.00 +/- 0.00
+New best mean reward!
+Eval num_timesteps=20000, episode_reward=-0.23 +/- 88.22
+Episode length: 926.59 +/- 116.96
+New best mean reward!
+Eval num_timesteps=25000, episode_reward=-66.01 +/- 24.51
+Episode length: 1000.00 +/- 0.00
+Eval num_timesteps=30000, episode_reward=-33.03 +/- 23.69
+Episode length: 1000.00 +/- 0.00
+Eval num_timesteps=35000, episode_reward=0.48 +/- 141.00
+Episode length: 612.96 +/- 156.61
+New best mean reward!
+Eval num_timesteps=40000, episode_reward=30.43 +/- 135.02
+Episode length: 761.98 +/- 147.54
+New best mean reward!
+Eval num_timesteps=45000, episode_reward=-16.59 +/- 90.64
+Episode length: 875.16 +/- 166.15
+Eval num_timesteps=50000, episode_reward=-116.59 +/- 59.63
+Episode length: 707.31 +/- 298.95
+Eval num_timesteps=55000, episode_reward=-61.50 +/- 60.31
+Episode length: 940.94 +/- 152.85
+Eval num_timesteps=60000, episode_reward=-112.93 +/- 58.17
+Episode length: 401.50 +/- 221.68
+Eval num_timesteps=65000, episode_reward=-149.90 +/- 49.73
+Episode length: 388.97 +/- 239.39
+Eval num_timesteps=70000, episode_reward=-92.64 +/- 106.61
+Episode length: 398.02 +/- 239.59
+Eval num_timesteps=75000, episode_reward=-121.41 +/- 39.59
+Episode length: 378.99 +/- 268.47
+Eval num_timesteps=80000, episode_reward=-121.33 +/- 41.48
+Episode length: 452.29 +/- 309.01
+Eval num_timesteps=85000, episode_reward=-129.13 +/- 37.62
+Episode length: 498.57 +/- 322.20
+Eval num_timesteps=90000, episode_reward=-175.23 +/- 40.62
+Episode length: 393.86 +/- 244.68
+Eval num_timesteps=95000, episode_reward=-108.21 +/- 42.39
+Episode length: 634.27 +/- 363.38
+Eval num_timesteps=100000, episode_reward=-100.68 +/- 46.16
+Episode length: 678.12 +/- 351.72
+Eval num_timesteps=105000, episode_reward=-156.40 +/- 47.08
+Episode length: 624.66 +/- 300.14
+Eval num_timesteps=110000, episode_reward=-98.38 +/- 28.88
+Episode length: 717.48 +/- 356.59
+Eval num_timesteps=115000, episode_reward=-122.10 +/- 44.16
+Episode length: 497.42 +/- 303.08
+Eval num_timesteps=120000, episode_reward=-112.66 +/- 42.39
+Episode length: 554.95 +/- 329.47
+Eval num_timesteps=125000, episode_reward=-130.82 +/- 39.17
+Episode length: 447.55 +/- 305.94
+Eval num_timesteps=130000, episode_reward=-125.55 +/- 46.30
+Episode length: 399.62 +/- 305.19
+Eval num_timesteps=135000, episode_reward=-122.23 +/- 40.32
+Episode length: 476.78 +/- 318.71
+Eval num_timesteps=140000, episode_reward=-140.08 +/- 37.88
+Episode length: 453.28 +/- 338.80
+Eval num_timesteps=145000, episode_reward=-128.13 +/- 37.58
+Episode length: 426.91 +/- 307.00
+Eval num_timesteps=150000, episode_reward=-128.02 +/- 31.08
+Episode length: 409.58 +/- 304.44
+Eval num_timesteps=155000, episode_reward=-133.16 +/- 37.29
+Episode length: 397.94 +/- 292.48
+Eval num_timesteps=160000, episode_reward=-132.42 +/- 38.05
+Episode length: 412.67 +/- 305.70
+Eval num_timesteps=165000, episode_reward=-128.72 +/- 29.23
+Episode length: 462.09 +/- 348.24
+Eval num_timesteps=170000, episode_reward=-126.22 +/- 43.17
+Episode length: 506.39 +/- 332.20
+Eval num_timesteps=175000, episode_reward=-129.91 +/- 32.02
+Episode length: 453.54 +/- 337.64
+Eval num_timesteps=180000, episode_reward=-131.73 +/- 35.93
+Episode length: 432.68 +/- 314.26
+Eval num_timesteps=185000, episode_reward=-141.10 +/- 40.15
+Episode length: 360.40 +/- 267.81
+Eval num_timesteps=190000, episode_reward=-138.64 +/- 42.41
+Episode length: 443.95 +/- 315.44
+Eval num_timesteps=195000, episode_reward=-139.85 +/- 39.84
+Episode length: 454.84 +/- 307.21
+Eval num_timesteps=200000, episode_reward=-130.52 +/- 36.82
+Episode length: 413.00 +/- 309.11
+FINISHED IN 2732.897417275002 s
+
+
+starting seed  2116 
+
+
+<class 'torch.nn.modules.activation.ReLU'>
+running on  cuda
+Eval num_timesteps=5000, episode_reward=-475.92 +/- 139.62
+Episode length: 469.70 +/- 108.27
+New best mean reward!
+Eval num_timesteps=10000, episode_reward=-191.73 +/- 24.19
+Episode length: 261.15 +/- 87.33
+New best mean reward!
+Eval num_timesteps=15000, episode_reward=-53.41 +/- 24.24
+Episode length: 1000.00 +/- 0.00
+New best mean reward!
+Eval num_timesteps=20000, episode_reward=-123.82 +/- 35.96
+Episode length: 990.85 +/- 38.92
+Eval num_timesteps=25000, episode_reward=-156.04 +/- 22.93
+Episode length: 1000.00 +/- 0.00
+Eval num_timesteps=30000, episode_reward=-116.64 +/- 21.25
+Episode length: 1000.00 +/- 0.00
+Eval num_timesteps=35000, episode_reward=-116.05 +/- 46.69
+Episode length: 916.13 +/- 156.33
+Eval num_timesteps=40000, episode_reward=6.85 +/- 140.11
+Episode length: 407.20 +/- 196.74
+New best mean reward!
+Eval num_timesteps=45000, episode_reward=38.85 +/- 119.11
+Episode length: 568.58 +/- 239.10
+New best mean reward!
+Eval num_timesteps=50000, episode_reward=-33.31 +/- 58.69
+Episode length: 916.43 +/- 200.30
+Eval num_timesteps=55000, episode_reward=-64.07 +/- 83.44
+Episode length: 608.46 +/- 344.85
+Eval num_timesteps=60000, episode_reward=-43.03 +/- 104.11
+Episode length: 285.49 +/- 120.89
+Eval num_timesteps=65000, episode_reward=11.23 +/- 128.15
+Episode length: 268.46 +/- 102.89
+Eval num_timesteps=70000, episode_reward=-4.15 +/- 117.37
+Episode length: 250.60 +/- 129.08
+Eval num_timesteps=75000, episode_reward=29.18 +/- 129.04
+Episode length: 405.00 +/- 171.88
+Eval num_timesteps=80000, episode_reward=-66.77 +/- 68.88
+Episode length: 696.47 +/- 346.31
+Eval num_timesteps=85000, episode_reward=-94.73 +/- 34.96
+Episode length: 518.89 +/- 367.09
+Eval num_timesteps=90000, episode_reward=-84.22 +/- 48.87
+Episode length: 543.83 +/- 367.49
+Eval num_timesteps=95000, episode_reward=-105.55 +/- 55.36
+Episode length: 558.64 +/- 346.69
+Eval num_timesteps=100000, episode_reward=-107.30 +/- 51.46
+Episode length: 488.97 +/- 315.30
+Eval num_timesteps=105000, episode_reward=-102.28 +/- 52.42
+Episode length: 587.54 +/- 351.58
+Eval num_timesteps=110000, episode_reward=-63.60 +/- 86.71
+Episode length: 484.70 +/- 304.17
+Eval num_timesteps=115000, episode_reward=-117.96 +/- 40.83
+Episode length: 437.80 +/- 326.00
+Eval num_timesteps=120000, episode_reward=-60.54 +/- 87.25
+Episode length: 500.44 +/- 328.08
+Eval num_timesteps=125000, episode_reward=-19.75 +/- 109.06
+Episode length: 550.27 +/- 302.83
+Eval num_timesteps=130000, episode_reward=-15.13 +/- 121.47
+Episode length: 398.40 +/- 219.00
+Eval num_timesteps=135000, episode_reward=-40.45 +/- 96.39
+Episode length: 500.24 +/- 313.12
+Eval num_timesteps=140000, episode_reward=-82.56 +/- 71.45
+Episode length: 466.58 +/- 310.76
+Eval num_timesteps=145000, episode_reward=-61.06 +/- 85.36
+Episode length: 397.67 +/- 285.92
+Eval num_timesteps=150000, episode_reward=-24.14 +/- 120.86
+Episode length: 356.57 +/- 207.07
+Eval num_timesteps=155000, episode_reward=-26.41 +/- 110.91
+Episode length: 351.07 +/- 208.58
+Eval num_timesteps=160000, episode_reward=1.48 +/- 119.97
+Episode length: 322.84 +/- 193.17
+Eval num_timesteps=165000, episode_reward=8.80 +/- 118.79
+Episode length: 338.32 +/- 202.82
+Eval num_timesteps=170000, episode_reward=23.21 +/- 127.25
+Episode length: 259.57 +/- 125.98
+Eval num_timesteps=175000, episode_reward=14.24 +/- 117.77
+Episode length: 280.28 +/- 148.11
+Eval num_timesteps=180000, episode_reward=-14.65 +/- 100.98
+Episode length: 267.48 +/- 157.17
+Eval num_timesteps=185000, episode_reward=13.80 +/- 120.52
+Episode length: 270.44 +/- 151.39
+Eval num_timesteps=190000, episode_reward=-5.77 +/- 101.07
+Episode length: 260.78 +/- 175.98
+Eval num_timesteps=195000, episode_reward=6.69 +/- 114.46
+Episode length: 240.89 +/- 153.62
+Eval num_timesteps=200000, episode_reward=2.41 +/- 113.59
+Episode length: 232.71 +/- 119.50
+FINISHED IN 2046.8602968550113 s
+
+
+starting seed  2117 
+
+
+<class 'torch.nn.modules.activation.ReLU'>
+running on  cuda
+Eval num_timesteps=5000, episode_reward=-658.92 +/- 66.31
+Episode length: 102.77 +/- 17.74
+New best mean reward!
+Eval num_timesteps=10000, episode_reward=-340.85 +/- 84.18
+Episode length: 242.53 +/- 111.26
+New best mean reward!
+Traceback (most recent call last):
+  File "/home/haani/snap/snapd-desktop-integration/83/Documents/thesis/sb.py", line 167, in <module>
+    main(args)
+  File "/home/haani/snap/snapd-desktop-integration/83/Documents/thesis/sb.py", line 158, in main
+    drl(args, i)
+  File "/home/haani/snap/snapd-desktop-integration/83/Documents/thesis/sb.py", line 138, in drl
+    model.learn(total_timesteps=args.steps, eval_freq=1, n_eval_episodes=1, log_interval=1, callback=eval_callback)
+  File "/home/haani/snap/snapd-desktop-integration/83/Documents/thesis/
